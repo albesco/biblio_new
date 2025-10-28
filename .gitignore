@@ -1,0 +1,6 @@
+# File di log
+*.log
+*_log.*
+
+# Eventuali cartelle di dati di grandi dimensioni
+Dati/
