@@ -1,0 +1,606 @@
+##############################
+##############################
+2025-06-13 16:57:28
+##############################
+##############################
+
+##############################
+##############################
+2025-06-13 16:58:57
+##############################
+##############################
+
+##############################
+##############################
+2025-06-13 17:00:02
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : emilio
+Surname     : bassini
+Institution from XLS file : politecnico di torino
+Institution from Scopus : centro interdipartimentale integrated additive manufacturing iam@polito
+Scopus ID   : 57191280116
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : pasquale daniele
+Surname     : cavalière
+Institution from XLS file : salento
+Institution from Scopus : oulun yliopisto
+Scopus ID   : 8670281200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-16 09:33:48
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-16 14:32:57
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-16 20:21:31
+##############################
+##############################
+
+##############################
+##############################
+2025-06-16 20:22:14
+##############################
+##############################
+
+##############################
+##############################
+2025-06-16 20:24:16
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-17 11:37:21
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-17 11:54:29
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-17 12:02:03
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+##############################
+##############################
+2025-06-17 12:03:04
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+
+##############################
+##############################
+2025-06-17 12:58:18
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : doglione
+Institution from XLS file : politecnico di torino
+Institution from Scopus : instm
+Scopus ID   : 6701754371
+

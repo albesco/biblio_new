@@ -1,0 +1,518 @@
+##############################
+##############################
+2025-06-20 09:16:44
+##############################
+##############################
+
+##############################
+##############################
+2025-06-20 11:16:56
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : padova
+Institution from Scopus : None
+Scopus ID   : 24314822100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : None
+Surname     : None
+Institution from XLS file : modena e reggio emilia
+Institution from Scopus : None
+Scopus ID   : 34768215900
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : f.
+Surname     : iacoviello
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6603911449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : carla
+Surname     : lupi
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 7003875521
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ismael
+Surname     : matino
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 56369378700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : alberto
+Surname     : molinari
+Institution from XLS file : trento
+Institution from Scopus : ospedale s. chiara
+Scopus ID   : 57197413497
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : stefano
+Surname     : natali
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 7004970758
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniela
+Surname     : pilone
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 6602785217
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : None
+Surname     : None
+Institution from XLS file : messina
+Institution from Scopus : None
+Scopus ID   : 55855916400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : None
+Surname     : None
+Institution from XLS file : politecnico di milano
+Institution from Scopus : None
+Scopus ID   : 56187183800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : ugues
+Institution from XLS file : politecnico di torino
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 6506314748
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cristian
+Surname     : vendittozzi
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 25629008200
+
+##############################
+##############################
+2025-06-23 11:20:22
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 11:22:06
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : padova
+Institution from Scopus : None
+##############################
+##############################
+2025-06-23 12:23:53
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 12:30:24
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 12:35:07
+##############################
+##############################
+
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : padova
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = Ferro, name = Paolo, affiliation = None, so will be skipped
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : None
+Surname     : None
+Institution from XLS file : modena
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = None, name = None, affiliation = None, so will be skipped
+##############################
+##############################
+2025-06-23 12:38:12
+##############################
+##############################
+
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : padova
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = Ferro, name = Paolo, affiliation = None, so will be skipped
+##############################
+##############################
+2025-06-23 12:41:49
+##############################
+##############################
+
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : padova
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = Ferro, name = Paolo, affiliation = None, so will be skipped
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : None
+Surname     : None
+Institution from XLS file : modena
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = None, name = None, affiliation = None, so will be skipped
+##############################
+##############################
+2025-06-23 12:43:48
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 12:45:02
+##############################
+##############################
+
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : padova
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = Ferro, name = Paolo, affiliation = None, so will be skipped
+##############################
+##############################
+2025-06-23 12:53:01
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 13:01:28
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 13:07:54
+##############################
+##############################
+
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : Paolo
+Surname     : Ferro
+Institution from XLS file : studi
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = Ferro, name = Paolo, affiliation = None, so will be skipped
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : ferro
+Institution from XLS file : studi
+Institution from Scopus : università di parma
+Scopus ID   : 7005171081
+
+##############################
+##############################
+2025-06-23 13:12:49
+##############################
+##############################
+
+
+
+
+####################
+SKIPPED AUTHOR
+
+Name        : None
+Surname     : None
+Institution from XLS file : department of management and engineering
+Institution from Scopus : None
+This author's Scopus record has an anomaly: surname = None, name = None, affiliation = None, so will be skipped
+##############################
+##############################
+2025-06-23 13:14:37
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 14:47:08
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 14:54:22
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 14:57:00
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 15:04:02
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 15:05:14
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 15:06:26
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 15:23:28
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 15:39:35
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 15:41:44
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 16:07:51
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 16:09:51
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 16:10:34
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 16:13:36
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 16:38:25
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 16:38:26
+##############################
+##############################
+
+##############################
+##############################
+2025-06-23 17:12:12
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 09:18:36
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 09:24:00
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 09:26:24
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 12:51:06
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 13:06:46
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 13:07:12
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 13:08:35
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : Eva
+Surname     : Gualtieri
+Institution from XLS file : milano
+Institution from Scopus : Politecnico di Milano
+Scopus ID   : 57221350049
+
+##############################
+##############################
+2025-06-24 13:20:43
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 13:24:35
+##############################
+##############################
+
+##############################
+##############################
+2025-06-24 13:30:22
+##############################
+##############################
+

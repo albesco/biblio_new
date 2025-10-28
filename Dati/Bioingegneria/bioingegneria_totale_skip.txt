@@ -1,0 +1,1064 @@
+##############################
+##############################
+2025-06-30 11:20:25
+##############################
+##############################
+
+##############################
+##############################
+2025-06-30 11:21:24
+##############################
+##############################
+
+##############################
+##############################
+2025-06-30 11:23:05
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : guido
+Scopus Name     : guido
+XLS Surname     : baroni
+Scopus Surname  : baroni
+XLS Institution    : pavia
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : ludovica
+Scopus Name     : ludovica
+XLS Surname     : cacopardo
+Scopus Surname  : cacopardo
+XLS Institution    : centro 3r
+Scopus Institution : università di pisa
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : enrico gianluca
+Scopus Name     : enrico g.
+XLS Surname     : caiani
+Scopus Surname  : caiani
+XLS Institution    : milano
+Scopus Institution : irccs istituto auxologico italiano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : gabriele
+Scopus Name     : gabriele
+XLS Surname     : candiani
+Scopus Surname  : candiani
+XLS Institution    : milan
+Scopus Institution : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : federico
+Scopus Name     : federico
+XLS Surname     : carpi
+Scopus Surname  : carpi
+XLS Institution    : gnocchi
+Scopus Institution : università degli studi di firenze
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : francesco
+XLS Surname     : de gaetano
+Scopus Surname  : de gaetano
+XLS Institution    : humanitas
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+##############################
+##############################
+2025-07-01 12:44:50
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : guido
+Scopus Name     : guido
+XLS Surname     : baroni
+Scopus Surname  : baroni
+XLS Institution    : pavia
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : monica
+Scopus Name     : monica
+XLS Surname     : boffito
+Scopus Surname  : boffito
+XLS Institution    : torino
+Scopus Institution : istituto per i processi chimico fisici, pisa
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : ludovica
+Scopus Name     : ludovica
+XLS Surname     : cacopardo
+Scopus Surname  : cacopardo
+XLS Institution    : centro 3r
+Scopus Institution : università di pisa
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : gabriele
+Scopus Name     : gabriele
+XLS Surname     : candiani
+Scopus Surname  : candiani
+XLS Institution    : milan
+Scopus Institution : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : federico
+Scopus Name     : federico
+XLS Surname     : carpi
+Scopus Surname  : carpi
+XLS Institution    : gnocchi
+Scopus Institution : università degli studi di firenze
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : paolo
+Scopus Name     : paolo
+XLS Surname     : castiglioni
+Scopus Surname  : castiglioni
+XLS Institution    : fondazione don carlo gnocchi
+Scopus Institution : università degli studi dell'insubria
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : michela
+Scopus Name     : michela
+XLS Surname     : chiappalone
+Scopus Surname  : chiappalone
+XLS Institution    : dipartimento di informatica, bioingegneria,
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : francesco
+XLS Surname     : de gaetano
+Scopus Surname  : de gaetano
+XLS Institution    : humanitas
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : valerio
+Scopus Name     : valerio
+XLS Surname     : di virgilio
+Scopus Surname  : di virgilio
+XLS Institution    : sapienza
+Scopus Institution : pan american health organization
+XLS Scopus ID   : 
+
+##############################
+##############################
+2025-07-01 14:36:16
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : guido
+Scopus Name     : guido
+XLS Surname     : baroni
+Scopus Surname  : baroni
+XLS Institution    : pavia
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : monica
+Scopus Name     : monica
+XLS Surname     : boffito
+Scopus Surname  : boffito
+XLS Institution    : torino
+Scopus Institution : istituto per i processi chimico fisici, pisa
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : ludovica
+Scopus Name     : ludovica
+XLS Surname     : cacopardo
+Scopus Surname  : cacopardo
+XLS Institution    : centro 3r
+Scopus Institution : università di pisa
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : gabriele
+Scopus Name     : gabriele
+XLS Surname     : candiani
+Scopus Surname  : candiani
+XLS Institution    : milan
+Scopus Institution : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : federico
+Scopus Name     : federico
+XLS Surname     : carpi
+Scopus Surname  : carpi
+XLS Institution    : gnocchi
+Scopus Institution : università degli studi di firenze
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : paolo
+Scopus Name     : paolo
+XLS Surname     : castiglioni
+Scopus Surname  : castiglioni
+XLS Institution    : fondazione don carlo gnocchi
+Scopus Institution : università degli studi dell'insubria
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : michela
+Scopus Name     : michela
+XLS Surname     : chiappalone
+Scopus Surname  : chiappalone
+XLS Institution    : dipartimento di informatica, bioingegneria,
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : francesco
+XLS Surname     : de gaetano
+Scopus Surname  : de gaetano
+XLS Institution    : humanitas
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : valerio
+Scopus Name     : valerio
+XLS Surname     : di virgilio
+Scopus Surname  : di virgilio
+XLS Institution    : sapienza
+Scopus Institution : pan american health organization
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : silvia
+Scopus Name     : silvia
+XLS Surname     : fare'
+Scopus Surname  : fare
+XLS Institution    : milano
+Scopus Institution : national interuniversity consortium of materials science and technology (instm)
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : valentina
+Scopus Name     : valentina
+XLS Surname     : giannini
+Scopus Surname  : giannini
+XLS Institution    : torino
+Scopus Institution : rottapharm
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria carla
+Scopus Name     : maria carla
+XLS Surname     : gilardi
+Scopus Surname  : gilardi
+XLS Institution    : consiglio nazionale delle ricerche
+Scopus Institution : università degli studi di milano-bicocca
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria
+XLS Surname     : iannone
+Scopus Surname  : iannone
+XLS Institution    : federico ii
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : giuseppe
+Scopus Name     : giuseppe
+XLS Surname     : jurman
+Scopus Surname  : jurman
+XLS Institution    : humanitas
+Scopus Institution : bruno kessler foundation
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : knaflitz
+Scopus Surname  : knaflitz
+XLS Institution    : torino
+Scopus Institution : boston university
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : paolo
+Scopus Name     : paolo
+XLS Surname     : magni
+Scopus Surname  : magni
+XLS Institution    : pavia
+Scopus Institution : università degli studi di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : francesco
+XLS Surname     : mercaldo
+Scopus Surname  : mercaldo
+XLS Institution    : molise
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : lorenzo
+Scopus Name     : lorenzo
+XLS Surname     : muzzi
+Scopus Surname  : muzzi
+XLS Institution    : dipartimento di informatica, bioingegneria,
+Scopus Institution : università degli studi di genova
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : simone
+Scopus Name     : simone
+XLS Surname     : novelli
+Scopus Surname  : novelli
+XLS Institution    : sapienza
+Scopus Institution : university college london
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : salvatore
+Scopus Name     : s.
+XLS Surname     : pasta
+Scopus Surname  : pasta
+XLS Institution    : palermo
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : lorena
+Scopus Name     : lorena
+XLS Surname     : postiglione
+Scopus Surname  : postiglione
+XLS Institution    : federico ii
+Scopus Institution : tigem telethon institute of genetics and medicine
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : giovannni maria
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : istituto nazionale tumori irccs - fondazione g pascale, napoli
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria maddalena
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : università degli studi della campania luigi vanvitelli
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria grazia
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : università degli studi di salerno
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria pia
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : università degli studi di siena
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : stefano
+Scopus Name     : stefano
+XLS Surname     : severi
+Scopus Surname  : severi
+XLS Institution    : bologna
+Scopus Institution : constructor university
+XLS Scopus ID   : 
+
+##############################
+##############################
+2025-07-07 16:11:33
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : gabriele
+Scopus Name     : gabriele
+XLS Surname     : arnulfo
+Scopus Surname  : arnulfo
+XLS Institution    : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus Institution : istituto giannina gaslini
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : guido
+Scopus Name     : guido
+XLS Surname     : baroni
+Scopus Surname  : baroni
+XLS Institution    : pavia
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+##############################
+##############################
+2025-07-07 16:15:46
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : gabriele
+Scopus Name     : gabriele
+XLS Surname     : arnulfo
+Scopus Surname  : arnulfo
+XLS Institution    : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus Institution : istituto giannina gaslini
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : guido
+Scopus Name     : guido
+XLS Surname     : baroni
+Scopus Surname  : baroni
+XLS Institution    : pavia
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : gabriele
+Scopus Name     : gabriele
+XLS Surname     : candiani
+Scopus Surname  : candiani
+XLS Institution    : milan
+Scopus Institution : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : federico
+Scopus Name     : federico
+XLS Surname     : carpi
+Scopus Surname  : carpi
+XLS Institution    : gnocchi
+Scopus Institution : università degli studi di firenze
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : paolo
+Scopus Name     : paolo
+XLS Surname     : castiglioni
+Scopus Surname  : castiglioni
+XLS Institution    : fondazione don carlo gnocchi
+Scopus Institution : università degli studi dell'insubria
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : francesco
+XLS Surname     : de gaetano
+Scopus Surname  : de gaetano
+XLS Institution    : humanitas
+Scopus Institution : politecnico di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : valerio
+Scopus Name     : valerio
+XLS Surname     : di virgilio
+Scopus Surname  : di virgilio
+XLS Institution    : sapienza
+Scopus Institution : pan american health organization
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : silvia
+Scopus Name     : silvia
+XLS Surname     : fare'
+Scopus Surname  : fare
+XLS Institution    : milano
+Scopus Institution : national interuniversity consortium of materials science and technology (instm)
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : valentina
+Scopus Name     : valentina
+XLS Surname     : giannini
+Scopus Surname  : giannini
+XLS Institution    : torino
+Scopus Institution : rottapharm
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria carla
+Scopus Name     : maria carla
+XLS Surname     : gilardi
+Scopus Surname  : gilardi
+XLS Institution    : consiglio nazionale delle ricerche
+Scopus Institution : università degli studi di milano-bicocca
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : veronica
+Scopus Name     : veronica
+XLS Surname     : iacovacci
+Scopus Surname  : iacovacci
+XLS Institution    : anna
+Scopus Institution : biorobotics institute
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria
+XLS Surname     : iannone
+Scopus Surname  : iannone
+XLS Institution    : federico ii
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : giuseppe
+Scopus Name     : giuseppe
+XLS Surname     : jurman
+Scopus Surname  : jurman
+XLS Institution    : humanitas
+Scopus Institution : bruno kessler foundation
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : knaflitz
+Scopus Surname  : knaflitz
+XLS Institution    : torino
+Scopus Institution : boston university
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : paolo
+Scopus Name     : paolo
+XLS Surname     : magni
+Scopus Surname  : magni
+XLS Institution    : pavia
+Scopus Institution : università degli studi di milano
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : francesco
+XLS Surname     : mercaldo
+Scopus Surname  : mercaldo
+XLS Institution    : molise
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : lorenzo
+Scopus Name     : lorenzo
+XLS Surname     : muzzi
+Scopus Surname  : muzzi
+XLS Institution    : dipartimento di informatica, bioingegneria,
+Scopus Institution : università degli studi di genova
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : simone
+Scopus Name     : simone
+XLS Surname     : novelli
+Scopus Surname  : novelli
+XLS Institution    : sapienza
+Scopus Institution : university college london
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : salvatore
+Scopus Name     : s.
+XLS Surname     : pasta
+Scopus Surname  : pasta
+XLS Institution    : palermo
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : lorena
+Scopus Name     : lorena
+XLS Surname     : postiglione
+Scopus Surname  : postiglione
+XLS Institution    : federico ii
+Scopus Institution : tigem telethon institute of genetics and medicine
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : claudio
+Scopus Name     : claudio
+XLS Surname     : ricci
+Scopus Surname  : ricci
+XLS Institution    : pisa
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali (instm)
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : giovannni maria
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : istituto nazionale tumori irccs - fondazione g pascale, napoli
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria maddalena
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : università degli studi della campania luigi vanvitelli
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria grazia
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : università degli studi di salerno
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : maria
+Scopus Name     : maria pia
+XLS Surname     : romano
+Scopus Surname  : romano
+XLS Institution    : federico ii
+Scopus Institution : università degli studi di siena
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : stefano
+Scopus Name     : stefano
+XLS Surname     : severi
+Scopus Surname  : severi
+XLS Institution    : bologna
+Scopus Institution : constructor university
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : jlenia
+Scopus Name     : jlenia
+XLS Surname     : toppi
+Scopus Surname  : toppi
+XLS Institution    : sapienza
+Scopus Institution : irccs fondazione santa lucia
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : francesco
+Scopus Name     : f.
+XLS Surname     : urciuolo
+Scopus Surname  : urciuolo
+XLS Institution    : federico ii
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID   : 
+

@@ -1,0 +1,78 @@
+##############################
+##############################
+2025-06-18 09:36:25
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : costanzo
+Surname     : bellini
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 49962904300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : filippo
+Surname     : berto
+Institution from XLS file : roma "la sapienza"
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 10042142600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : v.
+Surname     : colla
+Institution from XLS file : scuola superiore sant'anna
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 6603349079
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : di cocco
+Institution from XLS file : cassino e lazio meridionale
+Institution from Scopus : universita di cassino e del lazio meridionale
+Scopus ID   : 6507861295
+
+##############################
+##############################
+2025-06-18 10:07:16
+##############################
+##############################
+
+##############################
+##############################
+2025-06-18 16:01:54
+##############################
+##############################
+
+##############################
+##############################
+2025-06-18 16:03:06
+##############################
+##############################
+
+##############################
+##############################
+2025-06-20 09:08:58
+##############################
+##############################
+

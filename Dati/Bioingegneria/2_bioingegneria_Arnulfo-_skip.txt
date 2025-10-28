@@ -1,0 +1,5604 @@
+##############################
+##############################
+2025-04-30 14:57:48
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : arnulfo
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 36944046300
+
+##############################
+##############################
+2025-04-30 14:59:09
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : arnulfo
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 36944046300
+
+##############################
+##############################
+2025-04-30 15:03:10
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : arnulfo
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 36944046300
+
+##############################
+##############################
+2025-04-30 15:04:17
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : arnulfo
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 36944046300
+
+##############################
+##############################
+2025-04-30 15:31:02
+##############################
+##############################
+
+##############################
+##############################
+2025-05-02 10:24:30
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : edmondo
+Surname     : battista
+Institution from XLS file : università degli studi di napoli federico ii
+Institution from Scopus : chieti
+Scopus ID   : 36237931200
+
+##############################
+##############################
+2025-05-05 17:56:13
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : edmondo
+Surname     : battista
+Institution from XLS file : università degli studi di napoli federico ii
+Institution from Scopus : chieti
+Scopus ID   : 36237931200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : annalisa
+Surname     : bonfiglio
+Institution from XLS file : università degli studi di cagliari
+Institution from Scopus : pavia
+Scopus ID   : 7004010259
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : martina
+Surname     : brofiga
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 57219833161
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milano
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : andrea
+Surname     : canessa
+Institution from XLS file : istituto superiore di sanita
+Institution from Scopus : genova
+Scopus ID   : 57210901958
+
+##############################
+##############################
+2025-05-08 09:48:48
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : edmondo
+Surname     : battista
+Institution from XLS file : università degli studi di napoli federico ii
+Institution from Scopus : chieti
+Scopus ID   : 36237931200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : annalisa
+Surname     : bonfiglio
+Institution from XLS file : università degli studi di cagliari
+Institution from Scopus : pavia
+Scopus ID   : 7004010259
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : martina
+Surname     : brofiga
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 57219833161
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milano
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : andrea
+Surname     : canessa
+Institution from XLS file : istituto superiore di sanita
+Institution from Scopus : genova
+Scopus ID   : 57210901958
+
+##############################
+##############################
+2025-05-08 10:59:56
+##############################
+##############################
+
+##############################
+##############################
+2025-05-08 14:04:33
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : edmondo
+Surname     : battista
+Institution from XLS file : università degli studi di napoli federico ii
+Institution from Scopus : chieti
+Scopus ID   : 36237931200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : annalisa
+Surname     : bonfiglio
+Institution from XLS file : università degli studi di cagliari
+Institution from Scopus : pavia
+Scopus ID   : 7004010259
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : martina
+Surname     : brofiga
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 57219833161
+
+##############################
+##############################
+2025-05-08 14:59:13
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milan
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavagliá
+Institution from XLS file : missouri university of science and technology
+Institution from Scopus : torino
+Scopus ID   : 57203075136
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavaglià
+Institution from XLS file : cleveland clinic foundation
+Institution from Scopus : torino
+Scopus ID   : 19633531700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : pietro
+Surname     : cerveri
+Institution from XLS file : politecnico di milano
+Institution from Scopus : pavia
+Scopus ID   : 55912385600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : università degli studi del sannio
+Institution from Scopus : benevento
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 8290092500
+
+##############################
+##############################
+2025-05-12 08:35:42
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milan
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavagliá
+Institution from XLS file : missouri university of science and technology
+Institution from Scopus : torino
+Scopus ID   : 57203075136
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavaglià
+Institution from XLS file : cleveland clinic foundation
+Institution from Scopus : torino
+Scopus ID   : 19633531700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : pietro
+Surname     : cerveri
+Institution from XLS file : politecnico di milano
+Institution from Scopus : pavia
+Scopus ID   : 55912385600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : università degli studi del sannio
+Institution from Scopus : benevento
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : emma
+Surname     : colamarino
+Institution from XLS file : irccs fondazione santa lucia
+Institution from Scopus : sapienza
+Scopus ID   : 57204365585
+
+##############################
+##############################
+2025-05-14 18:16:39
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milan
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavagliá
+Institution from XLS file : missouri university of science and technology
+Institution from Scopus : torino
+Scopus ID   : 57203075136
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavaglià
+Institution from XLS file : cleveland clinic foundation
+Institution from Scopus : torino
+Scopus ID   : 19633531700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : pietro
+Surname     : cerveri
+Institution from XLS file : politecnico di milano
+Institution from Scopus : pavia
+Scopus ID   : 55912385600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : università degli studi del sannio
+Institution from Scopus : benevento
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : emma
+Surname     : colamarino
+Institution from XLS file : irccs fondazione santa lucia
+Institution from Scopus : sapienza
+Scopus ID   : 57204365585
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d'amore
+Institution from XLS file : university of pittsburgh medical center
+Institution from Scopus : palermo
+Scopus ID   : 35487173200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : de vicariis
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 57678662900
+
+##############################
+##############################
+2025-05-16 10:54:55
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milan
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavagliá
+Institution from XLS file : missouri university of science and technology
+Institution from Scopus : torino
+Scopus ID   : 57203075136
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavaglià
+Institution from XLS file : cleveland clinic foundation
+Institution from Scopus : torino
+Scopus ID   : 19633531700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : pietro
+Surname     : cerveri
+Institution from XLS file : politecnico di milano
+Institution from Scopus : pavia
+Scopus ID   : 55912385600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : università degli studi del sannio
+Institution from Scopus : benevento
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : emma
+Surname     : colamarino
+Institution from XLS file : irccs fondazione santa lucia
+Institution from Scopus : sapienza
+Scopus ID   : 57204365585
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d'amore
+Institution from XLS file : university of pittsburgh medical center
+Institution from Scopus : palermo
+Scopus ID   : 35487173200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : de vicariis
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 57678662900
+
+##############################
+##############################
+2025-05-16 12:56:28
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Institution from Scopus : milan
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavagliá
+Institution from XLS file : missouri university of science and technology
+Institution from Scopus : torino
+Scopus ID   : 57203075136
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : cavaglià
+Institution from XLS file : cleveland clinic foundation
+Institution from Scopus : torino
+Scopus ID   : 19633531700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : pietro
+Surname     : cerveri
+Institution from XLS file : politecnico di milano
+Institution from Scopus : pavia
+Scopus ID   : 55912385600
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : università degli studi del sannio
+Institution from Scopus : benevento
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : emma
+Surname     : colamarino
+Institution from XLS file : irccs fondazione santa lucia
+Institution from Scopus : sapienza
+Scopus ID   : 57204365585
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d'amore
+Institution from XLS file : university of pittsburgh medical center
+Institution from Scopus : palermo
+Scopus ID   : 35487173200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : de vicariis
+Institution from XLS file : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Institution from Scopus : genova
+Scopus ID   : 57678662900
+
+##############################
+##############################
+2025-05-16 15:28:55
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : milan
+Institution from Scopus : fondazione don carlo gnocchi
+Scopus ID   : 7004778977
+
+##############################
+##############################
+2025-05-16 15:40:00
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sara
+Surname     : moccia
+Institution from XLS file : chieti
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 57192919602
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : chiara
+Surname     : paganelli
+Institution from XLS file : milano
+Institution from Scopus : foundation irccs neurological institute "c. besta"
+Scopus ID   : 56989042300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-05-26 08:41:22
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+##############################
+##############################
+2025-05-26 14:02:11
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sara
+Surname     : moccia
+Institution from XLS file : chieti
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 57192919602
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : chiara
+Surname     : paganelli
+Institution from XLS file : milano
+Institution from Scopus : foundation irccs neurological institute "c. besta"
+Scopus ID   : 56989042300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-05-26 16:11:18
+##############################
+##############################
+
+##############################
+##############################
+2025-05-26 16:16:55
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sara
+Surname     : moccia
+Institution from XLS file : chieti
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 57192919602
+
+##############################
+##############################
+2025-05-28 16:51:32
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+##############################
+##############################
+2025-05-29 15:10:02
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sara
+Surname     : moccia
+Institution from XLS file : chieti
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 57192919602
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : chiara
+Surname     : paganelli
+Institution from XLS file : milano
+Institution from Scopus : foundation irccs neurological institute "c. besta"
+Scopus ID   : 56989042300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorena
+Surname     : postiglione
+Institution from XLS file : federico ii
+Institution from Scopus : tigem telethon institute of genetics and medicine
+Scopus ID   : 57189214100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : raiteri
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 7005989160
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : serena
+Surname     : ricci
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57193427235
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giovannni maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : istituto nazionale tumori irccs - fondazione g pascale, napoli
+Scopus ID   : 35576115800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57201844152
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria maddalena
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi della campania luigi vanvitelli
+Scopus ID   : 7402437487
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria grazia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di salerno
+Scopus ID   : 57194137422
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria f.
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : ceinge-biotecnologie avanzate s.c.a r.l.
+Scopus ID   : 59494514300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria pia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di siena
+Scopus ID   : 8642317800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : sanguineti
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 7003348473
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : stefano
+Surname     : severi
+Institution from XLS file : bologna
+Institution from Scopus : constructor university
+Scopus ID   : 55482418300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria francesca
+Surname     : spadea
+Institution from XLS file : catanzaro
+Institution from Scopus : karlsruher institut für technologie
+Scopus ID   : 11241657700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : rosella
+Surname     : trò
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57210831130
+
+##############################
+##############################
+2025-06-03 14:39:45
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sara
+Surname     : moccia
+Institution from XLS file : chieti
+Institution from Scopus : sant'anna scuola universitaria superiore pisa
+Scopus ID   : 57192919602
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : chiara
+Surname     : paganelli
+Institution from XLS file : milano
+Institution from Scopus : foundation irccs neurological institute "c. besta"
+Scopus ID   : 56989042300
+
+##############################
+##############################
+2025-06-04 17:42:43
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maura
+Surname     : casadio
+Institution from XLS file : genova
+Institution from Scopus : marquette university and medical college of wisconsin joint department of biomedical engineering
+Scopus ID   : 9735851100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : linda
+Surname     : pattini
+Institution from XLS file : milano
+Institution from Scopus : irccs centro cardiologico monzino
+Scopus ID   : 6507754763
+
+##############################
+##############################
+2025-06-06 12:36:54
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : monica
+Surname     : boffito
+Institution from XLS file : torino
+Institution from Scopus : istituto per i processi chimico fisici, pisa
+Scopus ID   : 54416851800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giuseppe
+Surname     : jurman
+Institution from XLS file : humanitas
+Institution from Scopus : bruno kessler foundation
+Scopus ID   : 6602367398
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-06-06 15:34:18
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 15:34:50
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 15:35:19
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 15:37:12
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 15:40:32
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 15:41:24
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : monica
+Surname     : boffito
+Institution from XLS file : torino
+Institution from Scopus : istituto per i processi chimico fisici, pisa
+Scopus ID   : 54416851800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giuseppe
+Surname     : jurman
+Institution from XLS file : humanitas
+Institution from Scopus : bruno kessler foundation
+Scopus ID   : 6602367398
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-06-06 18:41:37
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 18:42:13
+##############################
+##############################
+
+##############################
+##############################
+2025-06-06 18:42:34
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : monica
+Surname     : boffito
+Institution from XLS file : torino
+Institution from Scopus : istituto per i processi chimico fisici, pisa
+Scopus ID   : 54416851800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giuseppe
+Surname     : jurman
+Institution from XLS file : humanitas
+Institution from Scopus : bruno kessler foundation
+Scopus ID   : 6602367398
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-06-06 19:18:18
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : monica
+Surname     : boffito
+Institution from XLS file : torino
+Institution from Scopus : istituto per i processi chimico fisici, pisa
+Scopus ID   : 54416851800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giuseppe
+Surname     : jurman
+Institution from XLS file : humanitas
+Institution from Scopus : bruno kessler foundation
+Scopus ID   : 6602367398
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-06-06 20:15:02
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : monica
+Surname     : boffito
+Institution from XLS file : torino
+Institution from Scopus : istituto per i processi chimico fisici, pisa
+Scopus ID   : 54416851800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giuseppe
+Surname     : jurman
+Institution from XLS file : humanitas
+Institution from Scopus : bruno kessler foundation
+Scopus ID   : 6602367398
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+##############################
+##############################
+2025-06-06 21:17:14
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : monica
+Surname     : boffito
+Institution from XLS file : torino
+Institution from Scopus : istituto per i processi chimico fisici, pisa
+Scopus ID   : 54416851800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michela
+Surname     : chiappalone
+Institution from XLS file : dipartimento di informatica, bioingegneria,
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 8290092500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : mcgowan institute for regenerative medicine
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giuseppe
+Surname     : jurman
+Institution from XLS file : humanitas
+Institution from Scopus : bruno kessler foundation
+Scopus ID   : 6602367398
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : raiteri
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 7005989160
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : serena
+Surname     : ricci
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57193427235
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giovannni maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : istituto nazionale tumori irccs - fondazione g pascale, napoli
+Scopus ID   : 35576115800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57201844152
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria maddalena
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi della campania luigi vanvitelli
+Scopus ID   : 7402437487
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria grazia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di salerno
+Scopus ID   : 57194137422
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria pia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di siena
+Scopus ID   : 8642317800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : sanguineti
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 7003348473
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : stefano
+Surname     : severi
+Institution from XLS file : bologna
+Institution from Scopus : constructor university
+Scopus ID   : 55482418300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria francesca
+Surname     : spadea
+Institution from XLS file : catanzaro
+Institution from Scopus : karlsruher institut für technologie
+Scopus ID   : 11241657700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : rosella
+Surname     : trò
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57210831130
+
+##############################
+##############################
+2025-06-10 14:34:32
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : guido
+Surname     : baroni
+Institution from XLS file : milano
+Institution from Scopus : cnao national center for oncological hadrontherapy
+Scopus ID   : 7006568878
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : ludovica
+Surname     : cacopardo
+Institution from XLS file : pisa
+Institution from Scopus : centro 3r
+Scopus ID   : 57195288816
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : federico
+Surname     : carpi
+Institution from XLS file : firenze
+Institution from Scopus : fondazione don carlo gnocchi
+Scopus ID   : 6603423675
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : castiglioni
+Institution from XLS file : fondazione don carlo gnocchi
+Institution from Scopus : università degli studi dell'insubria
+Scopus ID   : 7004778977
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mario
+Surname     : cesarelli
+Institution from XLS file : benevento
+Institution from Scopus : università degli studi del sannio
+Scopus ID   : 57190853089
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : emma
+Surname     : colamarino
+Institution from XLS file : santa lucia
+Institution from Scopus : sapienza università di roma
+Scopus ID   : 57204365585
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : fondazione ri.med
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : de gaetano
+Institution from XLS file : milano
+Institution from Scopus : humanitas research hospital
+Scopus ID   : 57184186700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : donatella
+Surname     : di lisa
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57196121943
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : domenico
+Surname     : formica
+Institution from XLS file : bio-medico
+Institution from Scopus : newcastle university
+Scopus ID   : 6507972203
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giada graziana
+Surname     : genchi
+Institution from XLS file : bari
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 54402922400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : mariacarla
+Surname     : gilardi
+Institution from XLS file : bicocca
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57226200721
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : michele
+Surname     : giugliano
+Institution from XLS file : modena
+Institution from Scopus : instituut born-bunge
+Scopus ID   : 55242654700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : cecilia
+Surname     : laschi
+Institution from XLS file : anna
+Institution from Scopus : national university of singapore
+Scopus ID   : 6603776567
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio luca
+Surname     : mainardi
+Institution from XLS file : milano
+Institution from Scopus : ente ospedaliero cantonale
+Scopus ID   : 57204152449
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : sabato
+Surname     : mellone
+Institution from XLS file : bologna
+Institution from Scopus : mhealth technologies s.r.l.
+Scopus ID   : 35787194500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : mercaldo
+Institution from XLS file : molise
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 55842609700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : lorenzo
+Surname     : muzzi
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57209274873
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : daniele
+Surname     : pala
+Institution from XLS file : bergamo
+Institution from Scopus : università degli studi di pavia
+Scopus ID   : 57208402794
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : roberto
+Surname     : raiteri
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 7005989160
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : serena
+Surname     : ricci
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57193427235
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giovannni maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : istituto nazionale tumori irccs - fondazione g pascale, napoli
+Scopus ID   : 35576115800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57201844152
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria maddalena
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi della campania luigi vanvitelli
+Scopus ID   : 7402437487
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria grazia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di salerno
+Scopus ID   : 57194137422
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria pia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di siena
+Scopus ID   : 8642317800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : vittorio
+Surname     : sanguineti
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 7003348473
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : stefano
+Surname     : severi
+Institution from XLS file : bologna
+Institution from Scopus : constructor university
+Scopus ID   : 55482418300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria francesca
+Surname     : spadea
+Institution from XLS file : catanzaro
+Institution from Scopus : karlsruher institut für technologie
+Scopus ID   : 11241657700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : rosella
+Surname     : trò
+Institution from XLS file : genova
+Institution from Scopus : dipartimento di informatica, bioingegneria, robotica e ingegneria dei sistemi
+Scopus ID   : 57210831130
+
+##############################
+##############################
+2025-06-12 16:59:19
+##############################
+##############################
+
+##############################
+##############################
+2025-06-12 17:00:48
+##############################
+##############################
+
+##############################
+##############################
+2025-06-12 17:04:47
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : guido
+Surname     : baroni
+Institution from XLS file : pavia
+Institution from Scopus : cnao national center for oncological hadrontherapy
+Scopus ID   : 7006568878
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : enrico g.
+Surname     : caiani
+Institution from XLS file : milano
+Institution from Scopus : irccs istituto auxologico italiano
+Scopus ID   : 7003714105
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : gabriele
+Surname     : candiani
+Institution from XLS file : milan
+Institution from Scopus : consiglio nazionale delle ricerche, institute for electromagnetic sensing of the environment
+Scopus ID   : 35975520500
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : antonio
+Surname     : d’amore
+Institution from XLS file : university of pittsburgh
+Institution from Scopus : fondazione ri.med
+Scopus ID   : 57652752300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valerio
+Surname     : di virgilio
+Institution from XLS file : sapienza
+Institution from Scopus : pan american health organization
+Scopus ID   : 6602422554
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : silvia
+Surname     : fare
+Institution from XLS file : milano
+Institution from Scopus : national interuniversity consortium of materials science and technology (instm)
+Scopus ID   : 55915253100
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : domenico
+Surname     : formica
+Institution from XLS file : newcastle
+Institution from Scopus : università campus bio-medico di roma
+Scopus ID   : 6507972203
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : valentina
+Surname     : giannini
+Institution from XLS file : torino
+Institution from Scopus : rottapharm
+Scopus ID   : 57192899347
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria carla
+Surname     : gilardi
+Institution from XLS file : consiglio nazionale delle ricerche
+Institution from Scopus : università degli studi di milano-bicocca
+Scopus ID   : 35493540800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : iannone
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57204250596
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : marco
+Surname     : knaflitz
+Institution from XLS file : torino
+Institution from Scopus : boston university
+Scopus ID   : 57212038297
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : paolo
+Surname     : magni
+Institution from XLS file : pavia
+Institution from Scopus : università degli studi di milano
+Scopus ID   : 55255644800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : francesco
+Surname     : mercaldo
+Institution from XLS file : molise
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 55842609700
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : simone
+Surname     : novelli
+Institution from XLS file : sapienza
+Institution from Scopus : the royal free hospital
+Scopus ID   : 24479818400
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : s.
+Surname     : pasta
+Institution from XLS file : palermo
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57221111881
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : claudio
+Surname     : ricci
+Institution from XLS file : pisa
+Institution from Scopus : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali (instm)
+Scopus ID   : 57205303542
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : giovannni maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : istituto nazionale tumori irccs - fondazione g pascale, napoli
+Scopus ID   : 35576115800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : consiglio nazionale delle ricerche
+Scopus ID   : 57201844152
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria maddalena
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi della campania luigi vanvitelli
+Scopus ID   : 7402437487
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria grazia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di salerno
+Scopus ID   : 57194137422
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : maria pia
+Surname     : romano
+Institution from XLS file : federico ii
+Institution from Scopus : università degli studi di siena
+Scopus ID   : 8642317800
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : stefano
+Surname     : severi
+Institution from XLS file : bologna
+Institution from Scopus : constructor university
+Scopus ID   : 55482418300
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : jlenia
+Surname     : toppi
+Institution from XLS file : sapienza
+Institution from Scopus : irccs fondazione santa lucia
+Scopus ID   : 36022079200
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+Name        : f.
+Surname     : urciuolo
+Institution from XLS file : federico ii
+Institution from Scopus : istituto italiano di tecnologia
+Scopus ID   : 15062005700
+

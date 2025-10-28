@@ -1,0 +1,12 @@
+Name,Surname,Institution,Author_Id,Article_Eid,Year,Num_Aut,Num_Cit,Article_Refs,Num_Ref_In_Citing,Citing_Year
+Andrea,Cafarelli,Scuola Superiore Sant'Anna,55551950400,2-S2.0-85205459266,2025,3,1,49,0.017241379310344827,[2025]
+Andrea,Cafarelli,Scuola Superiore Sant'Anna,55551950400,2-S2.0-85192529196,2024,8,0,46,0,[]
+Andrea,Cafarelli,Scuola Superiore Sant'Anna,55551950400,2-S2.0-85206186227,2024,4,1,37,0.02702702702702703,[2024]
+Andrea,Cafarelli,Scuola Superiore Sant'Anna,55551950400,2-S2.0-85206145166,2024,10,2,37,0.05266805266805267,"[2025, 2024]"
+Andrea,Cafarelli,Scuola Superiore Sant'Anna,55551950400,2-S2.0-85202443165,2024,6,0,18,0,[]
+alessia,caputo,politecnica delle marche,58119182300,2-s2.0-85215783326,2025,3,0,35,0.0,[]
+alessia,caputo,politecnica delle marche,58119182300,2-s2.0-85207326440,2024,5,0,32,0.0,[]
+alessia,caputo,politecnica delle marche,58119182300,2-s2.0-85196517806,2024,5,0,8,0.0,[]
+alessia,caputo,politecnica delle marche,58119182300,2-s2.0-85216109913,2024,3,0,24,0.0,[]
+alessia,caputo,politecnica delle marche,58119182300,2-s2.0-85201165258,2024,7,0,23,0.0,[]
+alessia,caputo,politecnica delle marche,58119182300,2-s2.0-85148973219,2023,4,19,27,0.7212292892153407,"[2025, 2025, 2025, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2024, 2023, 2023, 2023, 2023, 2023, 2023]"

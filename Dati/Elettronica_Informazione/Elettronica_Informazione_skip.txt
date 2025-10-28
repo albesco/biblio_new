@@ -1,0 +1,1635 @@
+##############################
+##############################
+2025-07-14 11:35:28
+##############################
+##############################
+
+##############################
+##############################
+2025-07-16 09:22:39
+##############################
+##############################
+
+##############################
+##############################
+2025-07-16 15:37:21
+##############################
+##############################
+
+##############################
+##############################
+2025-07-16 15:42:30
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni
+Scopus Name     : giovanni
+XLS Surname     : gugliandolo
+Scopus Surname  : gugliandolo
+XLS Institution    : messina
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali
+XLS Scopus ID      : 
+Scopus ID          : 57192875612
+
+This author's record has a different affiliation institution [consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali] from the one [messina] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-17 14:49:36
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni
+Scopus Name     : giovanni
+XLS Surname     : gugliandolo
+Scopus Surname  : gugliandolo
+XLS Institution    : messina
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali
+XLS Scopus ID      : 
+Scopus ID          : 57192875612
+
+This author's record has a different affiliation institution [consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali] from the one [messina] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-18 11:41:58
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-19 11:57:28
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-19 14:18:08
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : pasquale
+Scopus Name     : pasquale
+XLS Surname     : arpaia
+Scopus Surname  : arpaia
+XLS Institution    : federico
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID      : 
+Scopus ID          : 7006199525
+
+This author's record has a different affiliation institution [consiglio nazionale delle ricerche] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni antonio
+Scopus Name     : giovanni antonio
+XLS Surname     : costanzo
+Scopus Surname  : costanzo
+XLS Institution    : politecnico di torino
+Scopus Institution : istituto nazionale di ricerca metrologica
+XLS Scopus ID      : 
+Scopus ID          : 7005165110
+
+This author's record has a different affiliation institution [istituto nazionale di ricerca metrologica] from the one [politecnico di torino] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-20 13:09:52
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-20 13:14:01
+##############################
+##############################
+
+##############################
+##############################
+2025-07-20 13:15:52
+##############################
+##############################
+
+##############################
+##############################
+2025-07-20 13:17:03
+##############################
+##############################
+
+##############################
+##############################
+2025-07-20 13:18:15
+##############################
+##############################
+
+##############################
+##############################
+2025-07-20 13:20:12
+##############################
+##############################
+
+##############################
+##############################
+2025-07-20 13:23:17
+##############################
+##############################
+
+##############################
+##############################
+2025-07-20 13:25:25
+##############################
+##############################
+
+##############################
+##############################
+2025-07-21 08:56:28
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni antonio
+Scopus Name     : giovanni antonio
+XLS Surname     : costanzo
+Scopus Surname  : costanzo
+XLS Institution    : politecnico di torino
+Scopus Institution : istituto nazionale di ricerca metrologica
+XLS Scopus ID      : 
+Scopus ID          : 7005165110
+
+This author's record has a different affiliation institution [istituto nazionale di ricerca metrologica] from the one [politecnico di torino] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-22 15:30:15
+##############################
+##############################
+
+##############################
+##############################
+2025-07-22 15:34:06
+##############################
+##############################
+
+##############################
+##############################
+2025-07-23 00:27:18
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni
+Scopus Name     : giovanni
+XLS Surname     : gugliandolo
+Scopus Surname  : gugliandolo
+XLS Institution    : messina
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali
+XLS Scopus ID      : 
+Scopus ID          : 57192875612
+
+This author's record has a different affiliation institution [consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali] from the one [messina] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : andrea
+Scopus Name     : andrea
+XLS Surname     : alimenti
+Scopus Surname  : alimenti
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 57204845795
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : pasquale
+Scopus Name     : pasquale
+XLS Surname     : arpaia
+Scopus Surname  : arpaia
+XLS Institution    : federico
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID      : 
+Scopus ID          : 7006199525
+
+This author's record has a different affiliation institution [consiglio nazionale delle ricerche] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-23 15:27:57
+##############################
+##############################
+
+##############################
+##############################
+2025-07-23 15:30:39
+##############################
+##############################
+
+##############################
+##############################
+2025-07-23 15:31:12
+##############################
+##############################
+
+##############################
+##############################
+2025-07-23 16:12:43
+##############################
+##############################
+
+##############################
+##############################
+2025-07-24 09:04:00
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni
+Scopus Name     : giovanni
+XLS Surname     : gugliandolo
+Scopus Surname  : gugliandolo
+XLS Institution    : messina
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali
+XLS Scopus ID      : 
+Scopus ID          : 57192875612
+
+This author's record has a different affiliation institution [consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali] from the one [messina] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : andrea
+Scopus Name     : andrea
+XLS Surname     : alimenti
+Scopus Surname  : alimenti
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 57204845795
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : pasquale
+Scopus Name     : pasquale
+XLS Surname     : arpaia
+Scopus Surname  : arpaia
+XLS Institution    : federico
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID      : 
+Scopus ID          : 7006199525
+
+This author's record has a different affiliation institution [consiglio nazionale delle ricerche] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-24 12:01:13
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni
+Scopus Name     : giovanni
+XLS Surname     : gugliandolo
+Scopus Surname  : gugliandolo
+XLS Institution    : messina
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali
+XLS Scopus ID      : 
+Scopus ID          : 57192875612
+
+This author's record has a different affiliation institution [consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali] from the one [messina] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : andrea
+Scopus Name     : andrea
+XLS Surname     : alimenti
+Scopus Surname  : alimenti
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 57204845795
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : pasquale
+Scopus Name     : pasquale
+XLS Surname     : arpaia
+Scopus Surname  : arpaia
+XLS Institution    : federico
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID      : 
+Scopus ID          : 7006199525
+
+This author's record has a different affiliation institution [consiglio nazionale delle ricerche] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-24 13:09:30
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : istituto italiano di tecnologia
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [istituto italiano di tecnologia] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni
+Scopus Name     : giovanni
+XLS Surname     : gugliandolo
+Scopus Surname  : gugliandolo
+XLS Institution    : messina
+Scopus Institution : consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali
+XLS Scopus ID      : 
+Scopus ID          : 57192875612
+
+This author's record has a different affiliation institution [consorzio interuniversitario nazionale per la scienza e tecnologia dei materiali] from the one [messina] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : andrea
+Scopus Name     : andrea
+XLS Surname     : alimenti
+Scopus Surname  : alimenti
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 57204845795
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : pasquale
+Scopus Name     : pasquale
+XLS Surname     : arpaia
+Scopus Surname  : arpaia
+XLS Institution    : federico
+Scopus Institution : consiglio nazionale delle ricerche
+XLS Scopus ID      : 
+Scopus ID          : 7006199525
+
+This author's record has a different affiliation institution [consiglio nazionale delle ricerche] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-07-28 10:28:53
+##############################
+##############################
+
+##############################
+##############################
+2025-08-20 16:49:35
+##############################
+##############################
+
+##############################
+##############################
+2025-08-20 16:50:08
+##############################
+##############################
+
+##############################
+##############################
+2025-08-20 16:51:23
+##############################
+##############################
+
+##############################
+##############################
+2025-08-22 14:22:38
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : corbo esposito
+XLS Institution    : federico
+Scopus Institution : universita di cassino e del lazio meridionale
+XLS Scopus ID      : 
+Scopus ID          : 13410550200
+
+This author's record has a different affiliation institution [universita di cassino e del lazio meridionale] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonio
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : università degli studi magna graecia di catanzaro
+XLS Scopus ID      : 
+Scopus ID          : 12772628800
+
+This author's record has a different affiliation institution [università degli studi magna graecia di catanzaro] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : antonio
+Scopus Name     : antonino
+XLS Surname     : esposito
+Scopus Surname  : esposito
+XLS Institution    : federico
+Scopus Institution : university of ferrara
+XLS Scopus ID      : 
+Scopus ID          : 59850009200
+
+This author's record has a different affiliation institution [university of ferrara] from the one [federico] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : grassi
+Scopus Surname  : grassi
+XLS Institution    : pavia
+Scopus Institution : istituto nazionale di fisica nucleare, sezione di pisa
+XLS Scopus ID      : 
+Scopus ID          : 36739792900
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare, sezione di pisa] from the one [pavia] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : rosario
+Scopus Name     : rosario
+XLS Surname     : morello
+Scopus Surname  : morello
+XLS Institution    : mediterranea
+Scopus Institution : università degli studi di reggio calabria
+XLS Scopus ID      : 
+Scopus ID          : 14632277400
+
+This author's record has a different affiliation institution [università degli studi di reggio calabria] from the one [mediterranea] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : marco
+Scopus Name     : marco
+XLS Surname     : mugnaini
+Scopus Surname  : mugnaini
+XLS Institution    : siena
+Scopus Institution : santa maria annunziata hospital
+XLS Scopus ID      : 
+Scopus ID          : 24462169700
+
+This author's record has a different affiliation institution [santa maria annunziata hospital] from the one [siena] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : erika
+Scopus Name     : erika
+XLS Surname     : pittella
+Scopus Surname  : pittella
+XLS Institution    : sapienza
+Scopus Institution : università telematica pegaso
+XLS Scopus ID      : 
+Scopus ID          : 24802635400
+
+This author's record has a different affiliation institution [università telematica pegaso] from the one [sapienza] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : enrico
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : federico
+Scopus Name     : federico
+XLS Surname     : carere
+Scopus Surname  : carere
+XLS Institution    : pegaso
+Scopus Institution : sapienza università di roma
+XLS Scopus ID      : 
+Scopus ID          : 57204648321
+
+This author's record has a different affiliation institution [sapienza università di roma] from the one [pegaso] in the XLS file. from the one searched in the XLS file, so will be skipped
+
+
+
+####################
+
+XLS Name        : giovanni antonio
+Scopus Name     : giovanni antonio
+XLS Surname     : costanzo
+Scopus Surname  : costanzo
+XLS Institution    : politecnico di torino
+Scopus Institution : istituto nazionale di ricerca metrologica
+XLS Scopus ID      : 
+Scopus ID          : 7005165110
+
+This author's record has a different affiliation institution [istituto nazionale di ricerca metrologica] from the one [politecnico di torino] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-08-25 10:01:20
+##############################
+##############################
+
+##############################
+##############################
+2025-08-25 18:10:28
+##############################
+##############################
+
+
+
+
+####################
+
+XLS Name        : enrico d.
+Scopus Name     : enrico d.
+XLS Surname     : silva
+Scopus Surname  : silva
+XLS Institution    : roma tre
+Scopus Institution : istituto nazionale di fisica nucleare - infn
+XLS Scopus ID      : 7201855087
+Scopus ID          : 7201855087
+
+This author's record has a different affiliation institution [istituto nazionale di fisica nucleare - infn] from the one [roma tre] in the XLS file. from the one searched in the XLS file, so will be skipped
+##############################
+##############################
+2025-08-25 19:31:17
+##############################
+##############################
+

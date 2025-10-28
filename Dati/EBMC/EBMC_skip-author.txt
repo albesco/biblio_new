@@ -1,0 +1,304 @@
+##############################
+##############################
+2025-10-27 16:50:29
+##############################
+##############################
+
+##############################
+##############################
+2025-10-27 16:52:28
+##############################
+##############################
+
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: didier , Surname: allexandre , Affiliation: kessler foundation, Scopus ID: 6508343358
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 117
+Article DOI: 10.1007/s12160-013-9490-x , Article EID: 2-s2.0-84885299767
+This article will be skipped, since it has 117 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ole jakob , Surname: elle , Affiliation: rikshospitalet-radiumhospitalet hf, Scopus ID: 6602265257
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 134
+Article DOI: 10.1093/ehjci/jey184 , Article EID: 2-s2.0-85066843346
+This article will be skipped, since it has 134 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ole jakob , Surname: elle , Affiliation: rikshospitalet-radiumhospitalet hf, Scopus ID: 6602265257
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 111
+Article DOI: 10.3389/frobt.2016.00001 , Article EID: 2-s2.0-84988243761
+This article will be skipped, since it has 111 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: fritz , Surname: albregtsen , Affiliation: oslo universitetssykehus, Scopus ID: 6603631066
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 492
+Article DOI: 10.1016/S0140-6736(19)32998-8 , Article EID: 2-s2.0-85078477477
+This article will be skipped, since it has 492 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: fritz , Surname: albregtsen , Affiliation: oslo universitetssykehus, Scopus ID: 6603631066
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 106
+Article DOI: 10.1016/0031-3203(95)00147-6 , Article EID: 2-s2.0-0030190428
+This article will be skipped, since it has 106 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 116
+Article DOI: 10.1109/ACCESS.2019.2962636 , Article EID: 2-s2.0-85077294662
+This article will be skipped, since it has 116 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 104
+Article DOI: 10.1109/JSEN.2011.2113394 , Article EID: 2-s2.0-82555189404
+This article will be skipped, since it has 104 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 132
+Article DOI: 10.1109/JMEMS.2008.2008559 , Article EID: 2-s2.0-60449084174
+This article will be skipped, since it has 132 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 130
+Article DOI: 10.1088/0964-1726/16/4/006 , Article EID: 2-s2.0-34547462572
+This article will be skipped, since it has 130 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 137
+Article DOI: 10.1016/j.mechatronics.2005.02.002 , Article EID: 2-s2.0-16644395628
+This article will be skipped, since it has 137 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 122
+Article DOI: 10.1108/01439910510593965 , Article EID: 2-s2.0-20444452839
+This article will be skipped, since it has 122 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 329
+Article DOI: 10.1002/rcs.3 , Article EID: 2-s2.0-33749654379
+This article will be skipped, since it has 329 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 194
+Article DOI: 10.1109/84.870059 , Article EID: 2-s2.0-0034269558
+This article will be skipped, since it has 194 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 141
+Article DOI: 10.1016/S0924-4247(99)00295-2 , Article EID: 2-s2.0-0033882349
+This article will be skipped, since it has 141 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 236
+Article DOI: 10.1109/RBME.2021.3066072 , Article EID: 2-s2.0-85103171740
+This article will be skipped, since it has 236 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 481
+Article DOI: 10.1109/TAFFC.2019.2927337 , Article EID: 2-s2.0-85069436181
+This article will be skipped, since it has 481 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 159
+Article DOI: 10.1109/TAFFC.2017.2724035 , Article EID: 2-s2.0-85030791568
+This article will be skipped, since it has 159 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 102
+Article DOI: 10.1007/978-3-319-62704-5_7 , Article EID: 2-s2.0-85026765594
+This article will be skipped, since it has 102 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 264
+Article DOI: 10.1016/j.bspc.2016.06.020 , Article EID: 2-s2.0-84979747864
+This article will be skipped, since it has 264 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 257
+Article DOI: 10.5220/0005792401430151 , Article EID: 2-s2.0-84979562042
+This article will be skipped, since it has 257 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 115
+Article DOI: 10.1016/j.ijmedinf.2008.07.001 , Article EID: 2-s2.0-57549085756
+This article will be skipped, since it has 115 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 1974
+Article DOI: 10.1080/15548627.2020.1797280 , Article EID: 2-s2.0-85102619204
+This article will be skipped, since it has 1974 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 271
+Article DOI: 10.1016/j.freeradbiomed.2018.08.035 , Article EID: 2-s2.0-85053069135
+This article will be skipped, since it has 271 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 164
+Article DOI: 10.2174/156720501108140910122849 , Article EID: 2-s2.0-84926147246
+This article will be skipped, since it has 164 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 126
+Article DOI: 10.3233/JAD-140576 , Article EID: 2-s2.0-84908676018
+This article will be skipped, since it has 126 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro de investigación biomédica en red de diabetes y enfermedades metabólicas asociadas, Scopus ID: 6701653693
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 161
+Article DOI: 10.1093/eurheartj/ehad260 , Article EID: 2-s2.0-85165521540
+This article will be skipped, since it has 161 citations, higher than the maximum number of citations allowed (100)
+##############################
+##############################
+2025-10-28 09:07:58
+##############################
+##############################
+
+##############################
+##############################
+2025-10-28 10:23:42
+##############################
+##############################
+
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: didier , Surname: allexandre , Affiliation: kessler foundation, Scopus ID: 6508343358
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 117
+Article DOI: 10.1007/s12160-013-9490-x , Article EID: 2-s2.0-84885299767
+This article will be skipped, since it has 117 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ole jakob , Surname: elle , Affiliation: rikshospitalet-radiumhospitalet hf, Scopus ID: 6602265257
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 134
+Article DOI: 10.1093/ehjci/jey184 , Article EID: 2-s2.0-85066843346
+This article will be skipped, since it has 134 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ole jakob , Surname: elle , Affiliation: rikshospitalet-radiumhospitalet hf, Scopus ID: 6602265257
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 111
+Article DOI: 10.3389/frobt.2016.00001 , Article EID: 2-s2.0-84988243761
+This article will be skipped, since it has 111 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: fritz , Surname: albregtsen , Affiliation: universitetet i oslo, Scopus ID: 6603631066
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 493
+Article DOI: 10.1016/S0140-6736(19)32998-8 , Article EID: 2-s2.0-85078477477
+This article will be skipped, since it has 493 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: fritz , Surname: albregtsen , Affiliation: universitetet i oslo, Scopus ID: 6603631066
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 106
+Article DOI: 10.1016/0031-3203(95)00147-6 , Article EID: 2-s2.0-0030190428
+This article will be skipped, since it has 106 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 116
+Article DOI: 10.1109/ACCESS.2019.2962636 , Article EID: 2-s2.0-85077294662
+This article will be skipped, since it has 116 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 104
+Article DOI: 10.1109/JSEN.2011.2113394 , Article EID: 2-s2.0-82555189404
+This article will be skipped, since it has 104 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 132
+Article DOI: 10.1109/JMEMS.2008.2008559 , Article EID: 2-s2.0-60449084174
+This article will be skipped, since it has 132 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 130
+Article DOI: 10.1088/0964-1726/16/4/006 , Article EID: 2-s2.0-34547462572
+This article will be skipped, since it has 130 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 137
+Article DOI: 10.1016/j.mechatronics.2005.02.002 , Article EID: 2-s2.0-16644395628
+This article will be skipped, since it has 137 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 122
+Article DOI: 10.1108/01439910510593965 , Article EID: 2-s2.0-20444452839
+This article will be skipped, since it has 122 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 329
+Article DOI: 10.1002/rcs.3 , Article EID: 2-s2.0-33749654379
+This article will be skipped, since it has 329 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 194
+Article DOI: 10.1109/84.870059 , Article EID: 2-s2.0-0034269558
+This article will be skipped, since it has 194 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: javad , Surname: dargahi , Affiliation: concordia university, Scopus ID: 6603763357
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 141
+Article DOI: 10.1016/S0924-4247(99)00295-2 , Article EID: 2-s2.0-0033882349
+This article will be skipped, since it has 141 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 237
+Article DOI: 10.1109/RBME.2021.3066072 , Article EID: 2-s2.0-85103171740
+This article will be skipped, since it has 237 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 481
+Article DOI: 10.1109/TAFFC.2019.2927337 , Article EID: 2-s2.0-85069436181
+This article will be skipped, since it has 481 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 159
+Article DOI: 10.1109/TAFFC.2017.2724035 , Article EID: 2-s2.0-85030791568
+This article will be skipped, since it has 159 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 102
+Article DOI: 10.1007/978-3-319-62704-5_7 , Article EID: 2-s2.0-85026765594
+This article will be skipped, since it has 102 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 265
+Article DOI: 10.1016/j.bspc.2016.06.020 , Article EID: 2-s2.0-84979747864
+This article will be skipped, since it has 265 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 258
+Article DOI: 10.5220/0005792401430151 , Article EID: 2-s2.0-84979562042
+This article will be skipped, since it has 258 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: manolis n. , Surname: tsiknakis , Affiliation: foundation for research and technology-hellas, Scopus ID: 6603918109
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 115
+Article DOI: 10.1016/j.ijmedinf.2008.07.001 , Article EID: 2-s2.0-57549085756
+This article will be skipped, since it has 115 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 1975
+Article DOI: 10.1080/15548627.2020.1797280 , Article EID: 2-s2.0-85102619204
+This article will be skipped, since it has 1975 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 271
+Article DOI: 10.1016/j.freeradbiomed.2018.08.035 , Article EID: 2-s2.0-85053069135
+This article will be skipped, since it has 271 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 164
+Article DOI: 10.2174/156720501108140910122849 , Article EID: 2-s2.0-84926147246
+This article will be skipped, since it has 164 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: márcia regina , Surname: cominetti , Affiliation: universidade federal de são carlos, Scopus ID: 6701454413
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 126
+Article DOI: 10.3233/JAD-140576 , Article EID: 2-s2.0-84908676018
+This article will be skipped, since it has 126 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro de investigación biomédica en red de diabetes y enfermedades metabólicas asociadas, Scopus ID: 6701653693
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 161
+Article DOI: 10.1093/eurheartj/ehad260 , Article EID: 2-s2.0-85165521540
+This article will be skipped, since it has 161 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro de investigación biomédica en red de diabetes y enfermedades metabólicas asociadas, Scopus ID: 6701653693
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 103
+Article DOI: 10.1038/s41598-020-59643-7 , Article EID: 2-s2.0-85079624532
+This article will be skipped, since it has 103 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro de investigación biomédica en red de diabetes y enfermedades metabólicas asociadas, Scopus ID: 6701653693
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 416
+Article DOI: 10.1016/j.jacc.2018.03.009 , Article EID: 2-s2.0-85047499725
+This article will be skipped, since it has 416 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro de investigación biomédica en red de diabetes y enfermedades metabólicas asociadas, Scopus ID: 6701653693
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 304
+Article DOI: 10.2337/dc16-0614 , Article EID: 2-s2.0-84994300380
+This article will be skipped, since it has 304 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro de investigación biomédica en red de diabetes y enfermedades metabólicas asociadas, Scopus ID: 6701653693
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 117
+Article DOI: 10.1016/j.recesp.2015.11.036 , Article EID: 2-s2.0-84960156630
+This article will be skipped, since it has 117 citations, higher than the maximum number of citations allowed (100)

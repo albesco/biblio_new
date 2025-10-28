@@ -1,0 +1,136 @@
+##############################
+##############################
+2025-06-27 13:01:10
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : emilio
+Scopus Name     : emilio
+XLS Surname     : bassini
+Scopus Surname  : bassini
+XLS Institution    : politecnico di torino
+Scopus Institution : centro interdipartimentale integrated additive manufacturing iam@polito
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : roberto
+Scopus Name     : roberto
+XLS Surname     : doglione
+Scopus Surname  : doglione
+XLS Institution    : politecnico di torino
+Scopus Institution : instm
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : alberto
+Scopus Name     : alberto
+XLS Surname     : molinari
+Scopus Surname  : molinari
+XLS Institution    : trento
+Scopus Institution : ospedale s. chiara
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : daniele
+Scopus Name     : daniele
+XLS Surname     : ugues
+Scopus Surname  : ugues
+XLS Institution    : instm
+Scopus Institution : politecnico di torino
+XLS Scopus ID   : 
+
+##############################
+##############################
+2025-07-01 18:01:01
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : emilio
+Scopus Name     : emilio
+XLS Surname     : bassini
+Scopus Surname  : bassini
+XLS Institution    : politecnico di torino
+Scopus Institution : consorzio interuniversitario nazionale di scienza e tecnologia dei materiali (instm)
+XLS Scopus ID   : 
+
+##############################
+##############################
+2025-07-07 17:14:34
+##############################
+##############################
+
+##############################
+##############################
+2025-07-07 17:18:59
+##############################
+##############################
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : roberto
+Scopus Name     : roberto
+XLS Surname     : doglione
+Scopus Surname  : doglione
+XLS Institution    : politecnico di torino
+Scopus Institution : instm
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : alberto
+Scopus Name     : alberto
+XLS Surname     : molinari
+Scopus Surname  : molinari
+XLS Institution    : trento
+Scopus Institution : ospedale s. chiara
+XLS Scopus ID   : 
+
+
+
+####################
+
+SKIPPED AUTHOR
+
+XLS Name        : daniele
+Scopus Name     : daniele
+XLS Surname     : ugues
+Scopus Surname  : ugues
+XLS Institution    : instm
+Scopus Institution : politecnico di torino
+XLS Scopus ID   : 
+
