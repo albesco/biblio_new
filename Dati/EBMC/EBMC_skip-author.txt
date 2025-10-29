@@ -302,3 +302,257 @@ Scopus Author Data  - Name: josep , Surname: franch-nadal , Affiliation: centro 
 Scopus Article Data - N. of co-authors  : 3, N. of citations: 117
 Article DOI: 10.1016/j.recesp.2015.11.036 , Article EID: 2-s2.0-84960156630
 This article will be skipped, since it has 117 citations, higher than the maximum number of citations allowed (100)
+##############################
+##############################
+2025-10-28 12:40:17
+##############################
+##############################
+
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: dharmendr , Surname: kumar , Affiliation: tcs research, Scopus ID: 57191965055
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 133
+Article DOI: 10.1016/j.corsci.2020.108724 , Article EID: 2-s2.0-85084681233
+This article will be skipped, since it has 133 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: dharmendr , Surname: kumar , Affiliation: tcs research, Scopus ID: 57191965055
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 219
+Article DOI: 10.1016/j.apsusc.2020.145905 , Article EID: 2-s2.0-85080045737
+This article will be skipped, since it has 219 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: jencheng , Surname: hou , Affiliation: academia sinica taiwan, Scopus ID: 57193425078
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 232
+Article DOI: 10.1109/TETCI.2017.2784878 , Article EID: 2-s2.0-85053817977
+This article will be skipped, since it has 232 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: andreas , Surname: ziegl , Affiliation: telbiomed medizintechnik und it service gmbh, Scopus ID: 57194349204
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 130
+Article DOI: 10.1038/nmeth.4470 , Article EID: 2-s2.0-85034778000
+This article will be skipped, since it has 130 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: marek , Surname: wodzinski , Affiliation: agh university of krakow, Scopus ID: 57195258893
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 156
+Article DOI: 10.1109/TMI.2022.3213983 , Article EID: 2-s2.0-85140752575
+This article will be skipped, since it has 156 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: marek , Surname: wodzinski , Affiliation: agh university of krakow, Scopus ID: 57195258893
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 118
+Article DOI: 10.1109/TMI.2020.2986331 , Article EID: 2-s2.0-85087014178
+This article will be skipped, since it has 118 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: marek , Surname: wodzinski , Affiliation: agh university of krakow, Scopus ID: 57195258893
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 126
+Article DOI: 10.1109/EMBC.2019.8856972 , Article EID: 2-s2.0-85077911854
+This article will be skipped, since it has 126 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: jing , Surname: cheng , Affiliation: shenzhen institutes of advanced technology, Scopus ID: 57198430801
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 292
+Article DOI: 10.1109/MSP.2019.2950557 , Article EID: 2-s2.0-85078532842
+This article will be skipped, since it has 292 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 126
+Article DOI: 10.1109/TEMC.2021.3109249 , Article EID: 2-s2.0-85117354868
+This article will be skipped, since it has 126 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 189
+Article DOI: 10.1038/s41928-019-0304-4 , Article EID: 2-s2.0-85073601775
+This article will be skipped, since it has 189 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 136
+Article DOI: 10.1126/sciadv.1701222 , Article EID: 2-s2.0-85036670002
+This article will be skipped, since it has 136 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 127
+Article DOI: 10.1109/TMTT.2014.2376523 , Article EID: 2-s2.0-84920843034
+This article will be skipped, since it has 127 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 149
+Article DOI: 10.1109/JPROC.2010.2103530 , Article EID: 2-s2.0-80053097578
+This article will be skipped, since it has 149 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 1324
+Article DOI: 10.1088/0031-9155/55/2/N01 , Article EID: 2-s2.0-74549114118
+This article will be skipped, since it has 1324 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 107
+Article DOI: 10.1088/0022-3727/36/23/001 , Article EID: 2-s2.0-0348252386
+This article will be skipped, since it has 107 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 112
+Article DOI: 10.1109/10.668755 , Article EID: 2-s2.0-0032080159
+This article will be skipped, since it has 112 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 103
+Article DOI: 10.1088/0031-9155/41/12/011 , Article EID: 2-s2.0-0029827185
+This article will be skipped, since it has 103 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: jiayi , Surname: zhang , Affiliation: fudan university, Scopus ID: 57201326160
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 107
+Article DOI: 10.1038/s41467-021-25993-7 , Article EID: 2-s2.0-85115774560
+This article will be skipped, since it has 107 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: sajay , Surname: arthanat , Affiliation: university of new hampshire durham, Scopus ID: 57203209193
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 362
+Article DOI: 10.1016/j.chb.2014.10.018 , Article EID: 2-s2.0-84911499557
+This article will be skipped, since it has 362 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: michael l. , Surname: raymer , Affiliation: college of engineering and computer science at wright state university, Scopus ID: 57204257748
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 110
+Article DOI: 10.1007/s11306-010-0242-7 , Article EID: 2-s2.0-79957464825
+This article will be skipped, since it has 110 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: michael l. , Surname: raymer , Affiliation: college of engineering and computer science at wright state university, Scopus ID: 57204257748
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 738
+Article DOI: 10.1109/4235.850656 , Article EID: 2-s2.0-0034227313
+This article will be skipped, since it has 738 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: michael l. , Surname: raymer , Affiliation: college of engineering and computer science at wright state university, Scopus ID: 57204257748
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 158
+Article DOI: 10.1006/jmbi.1996.0746 , Article EID: 2-s2.0-0031592453
+This article will be skipped, since it has 158 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: binod , Surname: bhattarai , Affiliation: university of aberdeen, Scopus ID: 57206214747
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 120
+Article DOI: 10.1109/CVPR46437.2021.00946 , Article EID: 2-s2.0-85123222753
+This article will be skipped, since it has 120 citations, higher than the maximum number of citations allowed (100)
+##############################
+##############################
+2025-10-29 08:32:24
+##############################
+##############################
+
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: dharmendr , Surname: kumar , Affiliation: tcs research, Scopus ID: 57191965055
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 133
+Article DOI: 10.1016/j.corsci.2020.108724 , Article EID: 2-s2.0-85084681233
+This article will be skipped, since it has 133 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: dharmendr , Surname: kumar , Affiliation: tcs research, Scopus ID: 57191965055
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 219
+Article DOI: 10.1016/j.apsusc.2020.145905 , Article EID: 2-s2.0-85080045737
+This article will be skipped, since it has 219 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: jencheng , Surname: hou , Affiliation: academia sinica taiwan, Scopus ID: 57193425078
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 232
+Article DOI: 10.1109/TETCI.2017.2784878 , Article EID: 2-s2.0-85053817977
+This article will be skipped, since it has 232 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: andreas , Surname: ziegl , Affiliation: telbiomed medizintechnik und it service gmbh, Scopus ID: 57194349204
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 130
+Article DOI: 10.1038/nmeth.4470 , Article EID: 2-s2.0-85034778000
+This article will be skipped, since it has 130 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: marek , Surname: wodzinski , Affiliation: agh university of krakow, Scopus ID: 57195258893
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 156
+Article DOI: 10.1109/TMI.2022.3213983 , Article EID: 2-s2.0-85140752575
+This article will be skipped, since it has 156 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: marek , Surname: wodzinski , Affiliation: agh university of krakow, Scopus ID: 57195258893
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 118
+Article DOI: 10.1109/TMI.2020.2986331 , Article EID: 2-s2.0-85087014178
+This article will be skipped, since it has 118 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: marek , Surname: wodzinski , Affiliation: agh university of krakow, Scopus ID: 57195258893
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 126
+Article DOI: 10.1109/EMBC.2019.8856972 , Article EID: 2-s2.0-85077911854
+This article will be skipped, since it has 126 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: jing , Surname: cheng , Affiliation: shenzhen institutes of advanced technology, Scopus ID: 57198430801
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 292
+Article DOI: 10.1109/MSP.2019.2950557 , Article EID: 2-s2.0-85078532842
+This article will be skipped, since it has 292 citations, higher than the maximum number of citations allowed (100)
+##############################
+##############################
+2025-10-29 08:33:53
+##############################
+##############################
+
+##############################
+##############################
+2025-10-29 08:34:24
+##############################
+##############################
+
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 126
+Article DOI: 10.1109/TEMC.2021.3109249 , Article EID: 2-s2.0-85117354868
+This article will be skipped, since it has 126 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 189
+Article DOI: 10.1038/s41928-019-0304-4 , Article EID: 2-s2.0-85073601775
+This article will be skipped, since it has 189 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 136
+Article DOI: 10.1126/sciadv.1701222 , Article EID: 2-s2.0-85036670002
+This article will be skipped, since it has 136 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 127
+Article DOI: 10.1109/TMTT.2014.2376523 , Article EID: 2-s2.0-84920843034
+This article will be skipped, since it has 127 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 149
+Article DOI: 10.1109/JPROC.2010.2103530 , Article EID: 2-s2.0-80053097578
+This article will be skipped, since it has 149 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 1324
+Article DOI: 10.1088/0031-9155/55/2/N01 , Article EID: 2-s2.0-74549114118
+This article will be skipped, since it has 1324 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 107
+Article DOI: 10.1088/0022-3727/36/23/001 , Article EID: 2-s2.0-0348252386
+This article will be skipped, since it has 107 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 112
+Article DOI: 10.1109/10.668755 , Article EID: 2-s2.0-0032080159
+This article will be skipped, since it has 112 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: ji , Surname: chen , Affiliation: cullen college of engineering, Scopus ID: 57201263577
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 103
+Article DOI: 10.1088/0031-9155/41/12/011 , Article EID: 2-s2.0-0029827185
+This article will be skipped, since it has 103 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: jiayi , Surname: zhang , Affiliation: fudan university, Scopus ID: 57201326160
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 107
+Article DOI: 10.1038/s41467-021-25993-7 , Article EID: 2-s2.0-85115774560
+This article will be skipped, since it has 107 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: sajay , Surname: arthanat , Affiliation: university of new hampshire durham, Scopus ID: 57203209193
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 362
+Article DOI: 10.1016/j.chb.2014.10.018 , Article EID: 2-s2.0-84911499557
+This article will be skipped, since it has 362 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: michael l. , Surname: raymer , Affiliation: college of engineering and computer science at wright state university, Scopus ID: 57204257748
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 110
+Article DOI: 10.1007/s11306-010-0242-7 , Article EID: 2-s2.0-79957464825
+This article will be skipped, since it has 110 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: michael l. , Surname: raymer , Affiliation: college of engineering and computer science at wright state university, Scopus ID: 57204257748
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 738
+Article DOI: 10.1109/4235.850656 , Article EID: 2-s2.0-0034227313
+This article will be skipped, since it has 738 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: michael l. , Surname: raymer , Affiliation: college of engineering and computer science at wright state university, Scopus ID: 57204257748
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 158
+Article DOI: 10.1006/jmbi.1996.0746 , Article EID: 2-s2.0-0031592453
+This article will be skipped, since it has 158 citations, higher than the maximum number of citations allowed (100)
+XLS Author Data     - Name:  , Surname:  , Institution: nan
+Scopus Author Data  - Name: binod , Surname: bhattarai , Affiliation: university of aberdeen, Scopus ID: 57206214747
+Scopus Article Data - N. of co-authors  : 3, N. of citations: 120
+Article DOI: 10.1109/CVPR46437.2021.00946 , Article EID: 2-s2.0-85123222753
+This article will be skipped, since it has 120 citations, higher than the maximum number of citations allowed (100)

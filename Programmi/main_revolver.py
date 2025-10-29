@@ -16,7 +16,7 @@ import time
 ###############################################################################################################
 # Program flag and constant settings 
 FLAG_INITIAL_CSV_CLEANING = False  # If True, it will ask if has to clean the CSV file from wrong single and double quote characters
-FIRST_AUTHOR_TO_PROCESS   = 115    # First author to be processed. Set to 1 to process all the authors
+FIRST_AUTHOR_TO_PROCESS   = 127    # First author to be processed. Set to 1 to process all the authors
 MAX_NUM_OF_CITATIONS      = 100    # Maximum number of citations for an article to be processed. Articles with a higher number of citations will be skipped
 
 AUTHOR_PAUSE_TIME       =   1 # Time in seconds to pause between two subsequent queries onan author author, to avoid exceeding the maximum number of requests per minute/hour/day
@@ -33,8 +33,8 @@ ARTICLE_PAUSE_TIME      =   2 # Time in seconds to pause between two subsequent 
 
 # To be used with revolver of API keys, to avoid exceeding the maximum number of requests per minute/hour/day
 
-API_KEY_PAUSE_TIME      =  20 # Time in seconds to pause between the switch to the next api key use
-API_KEY_ROLL_PAUSE_TIME = 400 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
+API_KEY_PAUSE_TIME      =   20 # Time in seconds to pause between the switch to the next api key use
+API_KEY_ROLL_PAUSE_TIME = 1440 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
 
 MAX_KEY_LOOPS  = 3       # Maximum number of loops to check the API keys
 
@@ -67,7 +67,7 @@ if platform.system() == "Windows":
     hostname = platform.node()
     if hostname == 'DESKTOP-K6PVP1F':  # Sostituisci con il nome reale del PC "Calypso"
         # base_dir_path = r"C:\Users\CMM\Desktop\20250327_Bibliometry\Dati"
-        base_dir_path = r"F:\Bibliometry\bibliometry\Dati"
+        base_dir_path = r"F:\biblio_new\Dati"
     elif hostname == 'Grifone': # Sostituisci con il nome reale del PC "Alberto"
         base_dir_path = r"F:\OneDrive - Università Politecnica delle Marche\Attivita\UnivPM\20250327_Bibliometry\Dati"
     else:
