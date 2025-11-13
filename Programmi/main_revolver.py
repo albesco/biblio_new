@@ -16,8 +16,8 @@ import time
 ###############################################################################################################
 # Program flag and constant settings 
 FLAG_INITIAL_CSV_CLEANING = False  # If True, it will ask if has to clean the CSV file from wrong single and double quote characters
-FIRST_AUTHOR_TO_PROCESS   = 127    # First author to be processed. Set to 1 to process all the authors
-MAX_NUM_OF_CITATIONS      = 100    # Maximum number of citations for an article to be processed. Articles with a higher number of citations will be skipped
+FIRST_AUTHOR_TO_PROCESS   =   1    # First author to be processed. Set to 1 to process all the authors
+MAX_NUM_OF_CITATIONS      = 10000    # Maximum number of citations for an article to be processed. Articles with a higher number of citations will be skipped
 
 AUTHOR_PAUSE_TIME       =   1 # Time in seconds to pause between two subsequent queries onan author author, to avoid exceeding the maximum number of requests per minute/hour/day
 CITATION_PAUSE_TIME     =   2 # Time in seconds to pause between two subsequent queries on citations for the same article, to avoid exceeding the maximum number of requests per minute/hour/day
@@ -33,10 +33,10 @@ ARTICLE_PAUSE_TIME      =   2 # Time in seconds to pause between two subsequent 
 
 # To be used with revolver of API keys, to avoid exceeding the maximum number of requests per minute/hour/day
 
-API_KEY_PAUSE_TIME      =   20 # Time in seconds to pause between the switch to the next api key use
-API_KEY_ROLL_PAUSE_TIME = 1440 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
+API_KEY_PAUSE_TIME      =       20 # Time in seconds to pause between the switch to the next api key use
+API_KEY_ROLL_PAUSE_TIME = 60*60*12 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
 
-MAX_KEY_LOOPS  = 3       # Maximum number of loops to check the API keys
+MAX_KEY_LOOPS  = 10            # Maximum number of loops to check the API keys
 
 API_KEYS = [ 
              "c81e40b973484fb83db5c697eadc3bea",  # Chiave API Cast
@@ -159,19 +159,29 @@ for cont_author in range( FIRST_AUTHOR_TO_PROCESS, len( XLS_authors["name"] ) ):
     if ( author_au_id_XLS is not None ) and ( author_au_id_XLS != "" ) : # If an Au_ID is found in XLS, it has the priority to search the author in Scopus 
         author_data_elements  = functions_revolver.search_author_with_au_id( author_au_id_XLS, api_key_revolver )     # Search for the author in Scopus, using the given Au_ID          
         author_search_results = author_data_elements.get( "search-results", {} ).get( "entry", [] )
-      
-        if ( author_search_results is None or len(author_search_results) == 0 ) : # If the author is not found using the au_id, try to search with name, surname and istitution
-            author_data_elements  = functions_revolver.search_author_with_institution( name_XLS, surname_XLS, institution_XLS, api_key_revolver )     # Search for the author in Scopus, using name, surname and institution
-
-            author_search_results = author_data_elements.get( "search-results", {} ).get( "entry", [] )
+        flag_author_search_result_none       = (author_search_results is None)
+        flag_author_search_result_empty_list = (isinstance(author_search_results, list) and len(author_search_results) == 0)
+        flag_author_search_result_error      = (isinstance(author_search_results, list) and len(author_search_results) > 0 and author_search_results[0].get('error', '') != '')
+        if (flag_author_search_result_none or flag_author_search_result_empty_list or flag_author_search_result_error) : # If the author is not found using the au_id, try to search with name, surname and istitution
             au_id_found_flag = False
+
+            author_data_elements  = functions_revolver.search_author_with_institution( name_XLS, surname_XLS, institution_XLS, api_key_revolver )     # Search for the author in Scopus, using name, surname and institution
+            author_search_results = author_data_elements.get( "search-results", {} ).get( "entry", [] )
+            flag_author_search_result_none       = (author_search_results is None)
+            flag_author_search_result_empty_list = (isinstance(author_search_results, list) and len(author_search_results) == 0)
+            flag_author_search_result_error      = (isinstance(author_search_results, list) and len(author_search_results) > 0 and author_search_results[0].get('error', '') != '')
+            if (flag_author_search_result_none or flag_author_search_result_empty_list or flag_author_search_result_error) : # If the author is not found using the au_id, try to search with name, surname and istitution
+                nsi_found_flag = False          
                 
     else:
-        author_data_elements  = functions_revolver.search_author_with_institution( name_XLS, surname_XLS, institution_XLS, api_key_revolver )
-
+        au_id_found_flag = False
+        author_data_elements  = functions_revolver.search_author_with_institution( name_XLS, surname_XLS, institution_XLS, api_key_revolver )     # Search for the author in Scopus, using name, surname and institution
         author_search_results = author_data_elements.get( "search-results", {} ).get( "entry", [] )
-        if ( author_search_results is None or len(author_search_results) == 0 ) :
-            nsi_found_flag = False
+        flag_author_search_result_none       = (author_search_results is None)
+        flag_author_search_result_empty_list = (isinstance(author_search_results, list) and len(author_search_results) == 0)
+        flag_author_search_result_error      = (isinstance(author_search_results, list) and len(author_search_results) > 0 and author_search_results[0].get('error', '') != '')
+        if (flag_author_search_result_none or flag_author_search_result_empty_list or flag_author_search_result_error) : # If the author is not found using the au_id, try to search with name, surname and istitution
+            nsi_found_flag = False   
 
     ################################################
     # nsi_flag refers to XLS Name Surname Institution search in Scopus

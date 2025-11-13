@@ -23,7 +23,7 @@ def search_author_with_institution( first_name, last_name, institution, api_key_
     
     # Construct the query string
     query = f"authlast({last_name}) AND authfirst({first_name}) AND affil({institution})"
-    
+
     while True :
         actual_api_key = api_key_revolver[ "api_key"] 
         params = {
@@ -31,23 +31,32 @@ def search_author_with_institution( first_name, last_name, institution, api_key_
             "apikey": actual_api_key,
             "view": "STANDARD"  # or "detailed" for more information
         }
-
+        
         response = requests.get( base_url, params=params )
         
-        error_text = f"\n\nThe API KEY {actual_api_key} doesn't work in fuction 'search_author_with_institution'. Rolling to another API KEY"
-        
-        if response.status_code >= 400: # There was an error in the request, try with another API key
-
-            print( error_text )
+        if response.status_code == 200:
+            return response.json()  # Parse and return an effective response as JSON
+        elif response.status_code in [401, 429]:
+            error_message = "is not valid" if response.status_code == 401 else "has reached the maximum number of requests"
+            error_text = f"\n\nAPI KEY {actual_api_key} {error_message} \nin function 'search_author_with_institution' for the author \nFirst name: {first_name} - Last name:{last_name} - Institution: {institution}. \nRolling to another api key."
+            print(error_text)
             with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
-                file.write( error_text )
-
-            api_key_revolver = get_next_API_key( api_key_revolver ) # It does
-                                                                    # - a try with the next API key
-                                                                    # - an exit if there aren't more loops on availables API keys
+                file.write(error_text)
+            api_key_revolver = get_next_API_key(api_key_revolver)
             continue
-        else:
-            return response.json()  # Parse and returns an effective response as JSON
+        elif response.status_code == 400:
+            error_text = f"\n\nBad Request in 'search_author_with_institution' {response.status_code}\nFirst name: {first_name} - Last name:{last_name} - Institution: {institution}. \nIt will be skipped without roll to another API KEY."            
+            print(error_text)
+            with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                file.write(error_text)
+            return {"search-results": {"entry": [{"@_fa": "true", "error": f"Invalid input for author {first_name} {last_name}"}]}}
+        else: # Gestione di altri errori 4xx o 5xx
+            error_text = f"\n\nGeneric error {response.status_code}\nFirst name: {first_name} - Last name:{last_name} - Institution: {institution}. \nIt will roll to another API KEY."
+            print(error_text)
+            with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                file.write(error_text)
+            api_key_revolver = get_next_API_key(api_key_revolver)
+            continue
 
 """
 Search for an author in Scopus by name and institution using Elsevier's API.
@@ -78,20 +87,37 @@ def search_author_with_au_id( au_id, api_key_revolver):
         }
         response = requests.get( base_url, params=params )
         
-        error_text = f"\n\nThe API KEY {actual_api_key} doesn't work in fuction 'search_author_with_au_id'. Rolling to another API KEY"
-        
-        if response.status_code >= 400: # There was an error in the request, try with another API key
-
-            print( error_text )
+        if response.status_code == 200:
+            return response.json()  # Parse and return an effective response as JSON
+        elif response.status_code == 401:
+            error_text = f"\n\nAPI KEY {actual_api_key} non valida o scaduta in 'search_author_with_au_id' per AU-ID {au_id}. Tentativo con un'altra API KEY."
+            print(error_text)
             with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
-                file.write( error_text )
-
-            api_key_revolver = get_next_API_key( api_key_revolver ) # It does
-                                                                    # - a try with the next API key
-                                                                    # - an exit if there aren't more loops on availables API keys
-            continue
-        else:
-            return response.json()  # Parse and returns an effective response as JSON
+                file.write(error_text)
+            api_key_revolver = get_next_API_key(api_key_revolver)
+            continue # Riprova con la nuova chiave
+        elif response.status_code == 429:
+            error_text = f"\n\nAPI KEY {actual_api_key} ha superato il limite di richieste in 'search_author_with_au_id' per AU-ID {au_id}. Tentativo con un'altra API KEY."
+            print(error_text)
+            with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                file.write(error_text)
+            api_key_revolver = get_next_API_key(api_key_revolver)
+            continue # Riprova con la nuova chiave
+        elif response.status_code == 400:
+            error_text = f"\n\nInput non valido (Bad Request) in 'search_author_with_au_id' per AU-ID {au_id}. Dettagli: {response.text}. Non si tenterà con un'altra API KEY per questo errore."
+            print(error_text)
+            with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                file.write(error_text)
+            # Un input non valido non è un problema di API key, quindi non ha senso ruotare.
+            # Potresti voler restituire un dizionario di errore specifico o sollevare un'eccezione.
+            return {"search-results": {"entry": [{"@_fa": "true", "error": f"Invalid input for AU-ID {au_id}"}]}}
+        else: # Gestione di altri errori 4xx o 5xx
+            error_text = f"\n\nErrore generico {response.status_code} in 'search_author_with_au_id' per AU-ID {au_id}. Dettagli: {response.text}. Tentativo con un'altra API KEY."
+            print(error_text)
+            with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                file.write(error_text)
+            api_key_revolver = get_next_API_key(api_key_revolver)
+            continue # Riprova con la nuova chiave
 
 """
 Recupera gli articoli di un autore usando lo Scopus Author ID.
