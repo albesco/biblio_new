@@ -16,11 +16,11 @@ import time
 ###############################################################################################################
 # Program flag and constant settings 
 FLAG_INITIAL_CSV_CLEANING = False  # If True, it will ask if has to clean the CSV file from wrong single and double quote characters
-FIRST_AUTHOR_TO_PROCESS   =   1    # First author to be processed. Set to 1 to process all the authors
+FIRST_AUTHOR_TO_PROCESS   =   34    # First author to be processed. Set to 1 to process all the authors
 MAX_NUM_OF_CITATIONS      = 10000    # Maximum number of citations for an article to be processed. Articles with a higher number of citations will be skipped
 
 AUTHOR_PAUSE_TIME       =   1 # Time in seconds to pause between two subsequent queries onan author author, to avoid exceeding the maximum number of requests per minute/hour/day
-CITATION_PAUSE_TIME     =   2 # Time in seconds to pause between two subsequent queries on citations for the same article, to avoid exceeding the maximum number of requests per minute/hour/day
+CITATION_PAUSE_TIME     =   2.5 # Time in seconds to pause between two subsequent queries on citations for the same article, to avoid exceeding the maximum number of requests per minute/hour/day
 ARTICLE_PAUSE_TIME      =   2 # Time in seconds to pause between two subsequent queries on articles for the same author, to avoid exceeding the maximum number of requests per minute/hour/day
 
 ##############################################################################################################
@@ -34,7 +34,7 @@ ARTICLE_PAUSE_TIME      =   2 # Time in seconds to pause between two subsequent 
 # To be used with revolver of API keys, to avoid exceeding the maximum number of requests per minute/hour/day
 
 API_KEY_PAUSE_TIME      =       20 # Time in seconds to pause between the switch to the next api key use
-API_KEY_ROLL_PAUSE_TIME = 60*60*12 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
+API_KEY_ROLL_PAUSE_TIME = 60*60*2 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
 
 MAX_KEY_LOOPS  = 10            # Maximum number of loops to check the API keys
 
@@ -144,7 +144,7 @@ print("Inizio ricerca su Scopus\n\n")
 api_key_revolver = functions_revolver.get_next_API_key( api_key_revolver )
 
 # Modifica per debug: il loop parte dall'autore in posizione 54 (indice 53)
-for cont_author in range( FIRST_AUTHOR_TO_PROCESS, len( XLS_authors["name"] ) ):
+for cont_author in range( FIRST_AUTHOR_TO_PROCESS-1, len( XLS_authors["name"] ) ):
  # for cont_author in range( 0, len( XLS_authors["name"] ) ):
     # Load the current author's data from the XLS dictionary
     name_XLS         = XLS_authors["name"       ][cont_author].lower()  # Lowercase the name to avoid problems with Scopus search            

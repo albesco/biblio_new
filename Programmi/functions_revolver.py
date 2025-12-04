@@ -253,6 +253,113 @@ def get_citing_articles( eid, api_key_revolver):
     return citing_dois
 
 """
+Recupera gli EID degli articoli che citano un articolo dato.
+
+Parametri:
+    eid (str): EID dell'articolo da analizzare.
+    api_key_revolver (dict): Dizionario per la gestione delle chiavi API.
+
+Ritorna:
+    list: Lista di EID degli articoli citanti.
+"""
+def get_citing_articles_EID( eid, api_key_revolver):
+
+    base_url = "https://api.elsevier.com/content/search/scopus"
+    start = 0
+    step = 25
+
+    citing_eids = []
+    while True:  # Loop per la paginazione
+        request_successful = False
+        while not request_successful:  # Loop per la gestione delle chiavi API
+            actual_api_key = api_key_revolver["api_key"]
+            params = {
+                "start": start,
+                "count": step,
+                "apikey": actual_api_key,
+                "query": f"REF({eid})",
+                "view": "STANDARD"
+            }
+
+            try:
+                response = requests.get(base_url, params=params, timeout=15)
+
+                if response.status_code == 200:
+                    data = response.json()
+                    entries = data.get("search-results", {}).get("entry", [])
+
+                    if not entries or (len(entries) == 1 and entries[0].get("error") == "Result set was empty"):
+                        return citing_eids
+
+                    for entry in entries:
+                        res = entry.get("eid")
+                        if res:
+                            citing_eids.append(res)
+
+                    request_successful = True
+
+                elif response.status_code >= 400:
+                    error_text = f"\n\nAPI KEY {actual_api_key} failed in function 'get_citing_articles_EID' for EID {eid}. Rolling to another API KEY"
+                    print(error_text)
+                    with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                        file.write(error_text)
+                    api_key_revolver = get_next_API_key(api_key_revolver)
+            except requests.exceptions.RequestException as e:
+                print(f"\nNetwork error in 'get_citing_articles_EID' for EID {eid}: {e}. Retrying with next API key.")
+                api_key_revolver = get_next_API_key(api_key_revolver)
+
+        start += step
+
+"""
+Ottiene il numero di riferimenti (references) in un articolo dato il suo EID.
+
+Parametri:
+    eid (str): L'EID dell'articolo.
+    api_key_revolver (dict): Dizionario per la gestione delle chiavi API.
+
+Ritorna:
+    int: Numero di riferimenti, oppure -1 in caso di errore o dati mancanti.
+"""
+def get_num_references_from_eid(eid, api_key_revolver):    
+    base_url = f"https://api.elsevier.com/content/abstract/eid/{eid}"
+    while True:
+        actual_api_key = api_key_revolver["api_key"]
+        headers = {
+            "X-ELS-APIKey": actual_api_key,
+            "Accept": "application/json"
+        }
+        params = {
+            "view": "FULL"  # Richiede la vista completa per includere il reference-count
+        }
+        error_text = f"\n\nThe API KEY {actual_api_key} failed in function 'get_num_references_from_eid' for EID {eid}. Rolling to another API KEY"
+
+        try:
+            # Aggiungi i parametri alla richiesta
+            response = requests.get(base_url, headers=headers, params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json()
+                # Con view=FULL, l'API restituisce l'intera lista senza paginazione.
+                try:
+                    references = data.get("abstracts-retrieval-response", {}).get("item", {}).get("bibrecord", {}).get("tail", {}).get("bibliography", {}).get("reference", [])
+                    # La risposta potrebbe contenere un singolo dizionario invece di una lista se c'è una sola referenza
+                    if isinstance(references, dict):
+                        return 1
+                    return len(references) if references else 0
+                except (AttributeError, TypeError):
+                    # Fallback nel caso la struttura JSON non sia quella attesa
+                    return 0
+            else:
+                print(error_text)
+                with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                    file.write(error_text)
+                api_key_revolver = get_next_API_key(api_key_revolver)  # Riprova con la nuova chiave
+                continue
+        except requests.exceptions.RequestException as e: # Errore di rete
+            print(f"\nNetwork error in 'get_num_references_from_eid' for EID {eid}: {e}. Retrying with next API key.")
+            api_key_revolver = get_next_API_key(api_key_revolver)
+            continue
+
+"""
 Recupera l'anno di pubblicazione di un articolo dato il suo DOI usando l'API di Elsevier.
 
 Parameters:
@@ -493,7 +600,7 @@ def get_scopus_data_for_citing_dois(citing_dois, api_key_revolver):
             params = {
                 "query": f"DOI({doi})",
                 "apikey": actual_api_key,
-                "view": "STANDARD",  # La vista STANDARD è sufficiente per anno e conteggio referenze
+                "view": "COMPLETE",  # La vista STANDARD è sufficiente per anno e conteggio referenze
                 "field": "prism:coverDate,citedby-count,prism:doi,eid,refcount" # Campi specifici per ottimizzare la risposta
             }
 
