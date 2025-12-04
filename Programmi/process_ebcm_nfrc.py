@@ -111,37 +111,32 @@ def process_ebcm_to_nrfc():
             list_citing_eids = functions_revolver.get_citing_articles_EID( article_eid , api_key_revolver )
             print(f" Trovati {len(list_citing_eids)} articoli.")
 
-            # b) Trova la lista LRC con il numero di referenze per ogni articolo in L
-            list_ref_counts = []
-            if list_citing_eids:
-                print(f" -> Recupero numero di referenze per i {len(list_citing_eids)} articoli citanti...")
-                for j, citing_eid in enumerate(list_citing_eids):
-                    ref_count = 0
-                    # Ottimizzazione: controlla se l'articolo citante è nel file di input
-                    if citing_eid in input_articles_by_eid and 'article_refs' in input_articles_by_eid[citing_eid]:
-                        try:
-                            ref_count = int(input_articles_by_eid[citing_eid]['article_refs'])
-                            print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: {ref_count} referenze (da file).")
-                        except (ValueError, TypeError):
-                            print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: Valore 'article_refs' non valido nel file. Query API...")
-                            ref_count = functions_revolver.get_num_references_from_eid(citing_eid, api_key_revolver)
-                            print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: {ref_count} referenze (da API).")
-                            time.sleep(PAUSE_TIME_BETWEEN_QUERIES)
-                    else:
-                        # Altrimenti, esegui la query API
-                        print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: non trovato nel file di input. Query API...")
-                        ref_count = functions_revolver.get_num_references_from_eid(citing_eid, api_key_revolver)
-                        print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: {ref_count} referenze (da API).")
-                        time.sleep(PAUSE_TIME_BETWEEN_QUERIES)
-                    
-                    list_ref_counts.append(ref_count)
+            # Conteggio degli articoli citanti trovati
+            num_citing_articles = len(list_citing_eids)
 
-            # Prepara il record di output
-            output_record = article_to_process.copy()
-            output_record['list_citing'] = list_citing_eids
-            output_record['list_num_ref_of_citing'] = list_ref_counts
+
+            # b) Trova la lista LRC con il numero di referenze per ogni articolo in L
+            # e la lista degli anni di pubblicazione
+            list_ref_counts = []
+            list_citing_years = []
+            if list_citing_eids:
+                print(f" -> Recupero dettagli (anno e referenze) per i {len(list_citing_eids)} articoli citanti...")
+                for j, citing_eid in enumerate(list_citing_eids):
+                    # Usa la nuova funzione per ottenere anno e referenze con una sola chiamata
+                    print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: Query API...")
+                    year, ref_count = functions_revolver.get_details_from_eid(citing_eid, api_key_revolver)
+                    print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: Anno: {year}, Referenze: {ref_count} (da API).")
+
+                    list_citing_years.append(year)
+                    list_ref_counts.append(ref_count)
+                    time.sleep(PAUSE_TIME_BETWEEN_QUERIES)
 
             # Scrivi il record nel file di output
+            output_record = article_to_process.copy()
+            output_record['num_cit'] = num_citing_articles
+            output_record['citing_years'] = list_citing_years
+            output_record['list_citing'] = list_citing_eids
+            output_record['list_num_ref_of_citing'] = list_ref_counts
             writer.writerow(output_record)
             outfile.flush() # Forza la scrittura immediata su disco
             print(f" -> Record per EID {article_eid} salvato su {output_csv_file_name}.\n")

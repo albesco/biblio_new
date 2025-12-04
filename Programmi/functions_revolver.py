@@ -360,6 +360,54 @@ def get_num_references_from_eid(eid, api_key_revolver):
             continue
 
 """
+Ottiene l'anno di pubblicazione e il numero di referenze di un articolo dato il suo EID.
+Questa funzione è ottimizzata per recuperare più dettagli con una sola chiamata API.
+
+Parametri:
+    eid (str): L'EID dell'articolo.
+    api_key_revolver (dict): Dizionario per la gestione delle chiavi API.
+
+Ritorna:
+    tuple: Una tupla contenente (anno, numero_di_referenze).
+           Restituisce (None, 0) in caso di errore o dati mancanti.
+"""
+def get_details_from_eid(eid, api_key_revolver):
+    base_url = f"https://api.elsevier.com/content/abstract/eid/{eid}"
+    while True:
+        actual_api_key = api_key_revolver["api_key"]
+        headers = {"X-ELS-APIKey": actual_api_key, "Accept": "application/json"}
+        params = {"view": "FULL"}
+        error_text = f"\n\nThe API KEY {actual_api_key} failed in function 'get_details_from_eid' for EID {eid}. Rolling to another API KEY"
+
+        try:
+            response = requests.get(base_url, headers=headers, params=params, timeout=15)
+            if response.status_code == 200:
+                data = response.json().get("abstracts-retrieval-response", {})
+                
+                # Estrai anno
+                year_str = data.get("coredata", {}).get("prism:coverDate", "").split("-")[0]
+                year = int(year_str) if year_str.isdigit() else None
+
+                # Estrai numero di referenze contando gli elementi
+                references = data.get("item", {}).get("bibrecord", {}).get("tail", {}).get("bibliography", {}).get("reference", [])
+                if isinstance(references, dict):
+                    ref_count = 1
+                else:
+                    ref_count = len(references) if references else 0
+                
+                return year, ref_count
+            else:
+                print(error_text)
+                with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                    file.write(error_text)
+                api_key_revolver = get_next_API_key(api_key_revolver)
+                continue
+        except requests.exceptions.RequestException as e:
+            print(f"\nNetwork error in 'get_details_from_eid' for EID {eid}: {e}. Retrying with next API key.")
+            api_key_revolver = get_next_API_key(api_key_revolver)
+            continue
+
+"""
 Recupera l'anno di pubblicazione di un articolo dato il suo DOI usando l'API di Elsevier.
 
 Parameters:
