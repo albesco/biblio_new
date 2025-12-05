@@ -410,6 +410,14 @@ def get_details_from_eid(eid, api_key_revolver):
                     file.write(error_text)
                 api_key_revolver = get_next_API_key(api_key_revolver)
                 continue
+        except requests.exceptions.Timeout as e:
+            year = -1
+            ref_count = -1
+            error_text = f"\n\nTimeout error in 'get_details_from_eid' for EID {eid}: {e}. Returning (-1, -1)."
+            print(error_text)
+            with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                file.write(error_text)
+            return year, ref_count
         except requests.exceptions.RequestException as e:
             print(f"\nNetwork error in 'get_details_from_eid' for EID {eid}: {e}. Retrying with next API key.")
             api_key_revolver = get_next_API_key(api_key_revolver)
