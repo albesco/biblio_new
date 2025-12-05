@@ -219,7 +219,7 @@ def get_citing_articles( eid, api_key_revolver):
             } 
 
             try:
-                response = requests.get(base_url, params=params, timeout=15)
+                response = requests.get(base_url, params=params, timeout=120)
                 
                 if response.status_code == 200:
                     data = response.json()
@@ -282,7 +282,7 @@ def get_citing_articles_EID( eid, api_key_revolver):
             }
 
             try:
-                response = requests.get(base_url, params=params, timeout=15)
+                response = requests.get(base_url, params=params, timeout=120)
 
                 if response.status_code == 200:
                     data = response.json()
@@ -335,7 +335,7 @@ def get_num_references_from_eid(eid, api_key_revolver):
 
         try:
             # Aggiungi i parametri alla richiesta
-            response = requests.get(base_url, headers=headers, params=params, timeout=15)
+            response = requests.get(base_url, headers=headers, params=params, timeout=120)
             if response.status_code == 200:
                 data = response.json()
                 # Con view=FULL, l'API restituisce l'intera lista senza paginazione.
@@ -380,7 +380,7 @@ def get_details_from_eid(eid, api_key_revolver):
         error_text = f"\n\nThe API KEY {actual_api_key} failed in function 'get_details_from_eid' for EID {eid}. Rolling to another API KEY"
 
         try:
-            response = requests.get(base_url, headers=headers, params=params, timeout=15)
+            response = requests.get(base_url, headers=headers, params=params, timeout=120)
             if response.status_code == 200:
                 data = response.json().get("abstracts-retrieval-response", {})
                 
@@ -395,6 +395,14 @@ def get_details_from_eid(eid, api_key_revolver):
                 else:
                     ref_count = len(references) if references else 0
                 
+                return year, ref_count
+            elif response.status_code == 404:
+                year = -1
+                ref_count = -1
+                error_text = f" Not Found error (404) in 'get_details_from_eid' for EID {eid}. Article not found. Returning (-1, -1)."
+                print(error_text)
+                with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                    file.write(error_text)
                 return year, ref_count
             else:
                 print(error_text)
@@ -472,7 +480,7 @@ def get_crossref_data_by_doi(doi):
 
     url = f"https://api.crossref.org/works/{doi}"
     try:
-        response = requests.get(url, timeout=10)
+        response = requests.get(url, timeout=120)
         response.raise_for_status()
 
         data = response.json()
@@ -653,7 +661,7 @@ def get_scopus_data_for_citing_dois(citing_dois, api_key_revolver):
             }
 
             try:
-                response = requests.get(base_url, params=params, timeout=15)
+                response = requests.get(base_url, params=params, timeout=120)
 
                 if response.status_code == 200:
                     data = response.json()

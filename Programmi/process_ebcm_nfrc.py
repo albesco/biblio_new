@@ -35,27 +35,57 @@ def process_ebcm_to_nrfc():
     log_file_path = os.path.join(data_dir_path, log_file_name)
 
     # API_KEY_VALUE = "c81e40b973484fb83db5c697eadc3bea"
-    API_KEY_VALUE = "18acfcf2e6f1ef665eec335c2fc40fcc"
-    PAUSE_TIME_BETWEEN_QUERIES = 1.0
+    
+    ##############################################################################################################
+    # API Key settings
+    # API_KEY = "c81e40b973484fb83db5c697eadc3bea" # Chiave API Cast
+    # API_KEY = "18acfcf2e6f1ef665eec335c2fc40fcc" # Chiave API Forlano
+    # API_KEY = "10f7de16ece6898e37b7f9c6d6a68eb7" # Chiave API Caputo
+    # API_KEY = "a4be5d6403465914a622246057f086e0" # Chiave API Scocco 1
+    # API_KEY = "d1dd3948f277cd381a11337c51d72f67" # Chiave API Scocco 2
+
+    # To be used with revolver of API keys, to avoid exceeding the maximum number of requests per minute/hour/day
+
+    API_KEY_PAUSE_TIME      =       20 # Time in seconds to pause between the switch to the next api key use
+    API_KEY_ROLL_PAUSE_TIME = 60*60*0.5 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
+
+    MAX_KEY_LOOPS  = 30            # Maximum number of loops to check the API keys
+    CITATION_PAUSE_TIME     =   2.5 # Time in seconds to pause between two subsequent queries on citations for the same article, to avoid exceeding the maximum number of requests per minute/hour/day
+    PAUSE_TIME_BETWEEN_QUERIES = 0.2 # Time in seconds to pause between two subsequent queries when retrieving details for citing articles
+    
+    
+    API_KEYS = [ 
+             "c81e40b973484fb83db5c697eadc3bea",  # Chiave API Cast
+             "a4be5d6403465914a622246057f086e0",  # Chiave API Scocco 1
+             "10f7de16ece6898e37b7f9c6d6a68eb7",  # Chiave API Caputo
+             "18acfcf2e6f1ef665eec335c2fc40fcc",  # Chiave API Forlano 
+             "2e47c27c5a96dc921842c11144168480",  # Chiave API Scocco 3
+             "d1dd3948f277cd381a11337c51d72f67" ] # Chiave API Scocco 2
+
+    ##############################################################################################################
+    # Scopus API keys settings
+
+    cont_key       = -1      # Counter for the current API key to be used. Starts from -1, so the first key will be the 0th in the list
+    cont_key_loops = 0       # Counter for the number of loops to check the API keys
 
     api_key_revolver = {
-        "api_key": API_KEY_VALUE,
-        "API_KEYS": [API_KEY_VALUE],
-        "cont_key": 0,
-        "cont_key_loops": 0,
-        "MAX_KEY_LOOPS": 5,
-        "log_file_path": log_file_path,
-        "api_key_pause_time": 1,
-        "api_key_roll_pause_time": 60,
-        "citation_pause_time": PAUSE_TIME_BETWEEN_QUERIES
+        "api_key"           : "",
+        "API_KEYS"          : API_KEYS,
+        "cont_key"          : cont_key,
+        "cont_key_loops"    : cont_key_loops,
+        "MAX_KEY_LOOPS"     : MAX_KEY_LOOPS,
+        "log_file_path"     : log_file_path,
+        "api_key_pause_time"     : API_KEY_PAUSE_TIME,
+        "api_key_roll_pause_time": API_KEY_ROLL_PAUSE_TIME,
+        "citation_pause_time"    : CITATION_PAUSE_TIME
     }
 
     functions_revolver.log_file_setup(log_file_path)
+    
     with open(log_file_path, "a", encoding="utf-8") as f:
         f.write(f"--- Inizio elaborazione NRFC: {time.strftime('%Y-%m-%d %H:%M:%S')} ---\n")
         f.write(f"Lettura EIDs da: {input_csv_file_path}\n")
         f.write(f"Output scritto su: {output_csv_file_path}\n")
-        f.write(f"Utilizzo API Key: 'API_KEY_VALUE' ({API_KEY_VALUE})\n")
 
     # Carica il file di input in memoria per una ricerca efficiente
     print(f"Caricamento dati da {input_csv_file_path} per ottimizzazione...")
@@ -111,10 +141,6 @@ def process_ebcm_to_nrfc():
             list_citing_eids = functions_revolver.get_citing_articles_EID( article_eid , api_key_revolver )
             print(f" Trovati {len(list_citing_eids)} articoli.")
 
-            # Conteggio degli articoli citanti trovati
-            num_citing_articles = len(list_citing_eids)
-
-
             # b) Trova la lista LRC con il numero di referenze per ogni articolo in L
             # e la lista degli anni di pubblicazione
             list_ref_counts = []
@@ -125,11 +151,24 @@ def process_ebcm_to_nrfc():
                     # Usa la nuova funzione per ottenere anno e referenze con una sola chiamata
                     print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: Query API...")
                     year, ref_count = functions_revolver.get_details_from_eid(citing_eid, api_key_revolver)
+                    if year == -1:
+                        print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: Da API risulta NOT FOUND, quindi verrà eliminato dalla lista.")
+                        continue # Salta questo articolo citante dalla lista   
+
                     print(f"    ({j+1}/{len(list_citing_eids)}) EID citante {citing_eid}: Anno: {year}, Referenze: {ref_count} (da API).")
 
                     list_citing_years.append(year)
                     list_ref_counts.append(ref_count)
                     time.sleep(PAUSE_TIME_BETWEEN_QUERIES)
+
+            # Calcola il nuovo valore di num_ref_in_citing
+            num_ref_in_citing = 0.0
+            for ref_count in list_ref_counts:
+                if ref_count > 0:
+                    num_ref_in_citing += (1.0 / ref_count)
+
+            # Conteggio degli articoli citanti trovati
+            num_citing_articles = len(list_citing_years)
 
             # Scrivi il record nel file di output
             output_record = article_to_process.copy()
@@ -137,9 +176,19 @@ def process_ebcm_to_nrfc():
             output_record['citing_years'] = list_citing_years
             output_record['list_citing'] = list_citing_eids
             output_record['list_num_ref_of_citing'] = list_ref_counts
+            # Aggiorna il campo 'num_ref_in_citing' con il valore calcolato
+            output_record['num_ref_in_citing'] = num_ref_in_citing
+
             writer.writerow(output_record)
             outfile.flush() # Forza la scrittura immediata su disco
-            print(f" -> Record per EID {article_eid} salvato su {output_csv_file_name}.\n")
+
+            print(f"[{i+1}/{total_articles}] Elaborazione EID: {article_eid} completata e salvato su {output_csv_file_name}\n.")
+            print(f" -> N.articoli citanti: {num_citing_articles}\n")
+            print(f" -> Lista anno articoli citanti: {list_citing_years}\n")
+            print(f" -> Lista EID articoli citanti: {list_citing_eids}\n")
+            print(f" -> Lista numeri di referenze degli articoli citanti: {list_ref_counts}\n")
+            print(f" -> Somma frazioni 1/num_referenze per articoli citanti: {num_ref_in_citing}\n")
+            print(f" -> N.citazioni saltate perché non trovate: {len(list_citing_eids) - len(list_ref_counts)}\n")
 
     print("\nElaborazione completata.")
 
