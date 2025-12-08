@@ -177,6 +177,7 @@ def get_author_articles( author_id, api_key_revolver ):
                 
                 # Incrementa l'indicatore per la pagina successiva
                 start = start + count
+                time.sleep(api_key_revolver.get("pagination_pause_time", 0.5)) # Pausa tra le pagine
             else:
                 print( error_text )
                 with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
@@ -249,7 +250,10 @@ def get_citing_articles( eid, api_key_revolver):
                 print(f"\nNetwork error in 'get_citing_articles' for EID {eid}: {e}. Retrying with next API key.")
                 api_key_revolver = get_next_API_key(api_key_revolver)
 
-        start += step  # Passa alla pagina successiva
+        if request_successful:
+            start += step  # Passa alla pagina successiva solo se la richiesta è andata a buon fine
+            time.sleep(api_key_revolver.get("pagination_pause_time", 0.5)) # Pausa tra le pagine
+
     return citing_dois
 
 """
@@ -308,7 +312,9 @@ def get_citing_articles_EID( eid, api_key_revolver):
                 print(f"\nNetwork error in 'get_citing_articles_EID' for EID {eid}: {e}. Retrying with next API key.")
                 api_key_revolver = get_next_API_key(api_key_revolver)
 
-        start += step
+        if request_successful:
+            start += step
+            time.sleep(api_key_revolver.get("pagination_pause_time", 0.5)) # Pausa tra le pagine
 
 """
 Ottiene il numero di riferimenti (references) in un articolo dato il suo EID.
@@ -396,6 +402,13 @@ def get_details_from_eid(eid, api_key_revolver):
                     ref_count = len(references) if references else 0
                 
                 return year, ref_count
+            elif response.status_code == 429:
+                print(error_text+" - Rate limit of queries exceeded."  )
+                with open(api_key_revolver["log_file_path"], "a", encoding="utf-8") as file:
+                    file.write(error_text)
+                api_key_revolver = get_next_API_key(api_key_revolver)
+                continue
+            
             elif response.status_code == 404:
                 year = -1
                 ref_count = -1

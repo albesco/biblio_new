@@ -47,11 +47,11 @@ def process_ebcm_to_nrfc():
     # To be used with revolver of API keys, to avoid exceeding the maximum number of requests per minute/hour/day
 
     API_KEY_PAUSE_TIME      =       20 # Time in seconds to pause between the switch to the next api key use
-    API_KEY_ROLL_PAUSE_TIME = 60*60*0.5 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
+    API_KEY_ROLL_PAUSE_TIME =  60*60*4 # Time in seconds to pause between the switch to the first api key after a complete loop of all the available keys
 
-    MAX_KEY_LOOPS  = 30            # Maximum number of loops to check the API keys
-    CITATION_PAUSE_TIME     =   2.5 # Time in seconds to pause between two subsequent queries on citations for the same article, to avoid exceeding the maximum number of requests per minute/hour/day
-    PAUSE_TIME_BETWEEN_QUERIES = 0.2 # Time in seconds to pause between two subsequent queries when retrieving details for citing articles
+    MAX_KEY_LOOPS  = 100            # Maximum number of loops to check the API keys
+    CITATION_PAUSE_TIME     =      3 # Time in seconds to pause between two subsequent queries on citations for the same article, to avoid exceeding the maximum number of requests per minute/hour/day
+    PAUSE_TIME_BETWEEN_CITING_ARTICLES = 0.5 # Time in seconds to pause between two subsequent queries when retrieving details for citing articles
     
     
     API_KEYS = [ 
@@ -77,7 +77,8 @@ def process_ebcm_to_nrfc():
         "log_file_path"     : log_file_path,
         "api_key_pause_time"     : API_KEY_PAUSE_TIME,
         "api_key_roll_pause_time": API_KEY_ROLL_PAUSE_TIME,
-        "citation_pause_time"    : CITATION_PAUSE_TIME
+        "citation_pause_time"    : CITATION_PAUSE_TIME,
+        "pagination_pause_time": PAUSE_TIME_BETWEEN_CITING_ARTICLES
     }
 
     functions_revolver.log_file_setup(log_file_path)
@@ -159,7 +160,7 @@ def process_ebcm_to_nrfc():
 
                     list_citing_years.append(year)
                     list_ref_counts.append(ref_count)
-                    time.sleep(PAUSE_TIME_BETWEEN_QUERIES)
+                    time.sleep(PAUSE_TIME_BETWEEN_CITING_ARTICLES)
 
             # Calcola il nuovo valore di num_ref_in_citing
             num_ref_in_citing = 0.0
